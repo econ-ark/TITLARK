@@ -119,11 +119,7 @@ div.verbatiminput {font-family: monospace; white-space: nowrap; }
 .equation-star td{text-align:center; }
 table.equation-star { width:100%; }
 table.equation { width:100%; }
-table.align, table.alignat, table.xalignat, table.xxalignat, table.flalign {width:100%; margin-left:5%; white-space: nowrap;}
-table.align-star, table.alignat-star, table.xalignat-star, table.flalign-star {margin-left:auto; margin-right:auto; white-space: nowrap;}
-td.align-label { width:5%; text-align:center; }
-td.align-odd { text-align:right; padding-right:0.3em;}
-td.align-even { text-align:left; padding-right:0.6em;}
+div.align {text-align: center;}
 table.multline, table.multline-star {width:100%;}
 td.gather {text-align:center; }
 table.gather {width:100%;}
@@ -145,12 +141,27 @@ table.boxedverbatim {width:100%;}
  pre.boxedverbatim{border:solid 1px; padding-right:1em;} 
 table.boxedverbatim {text-align:center;}
 .listinginput p{ margin-bottom:0em; margin-top:0em; }
+span.accentset span.accent{font-size:80%; position:relative; top:-1.7ex; left:-0.6em;}
+span.underaccent span.accent{font-size:80%; position:relative; top:1.6ex; left:-0.6em;}
 .uline{ text-decoration:underline; }
 .uuline{ text-decoration:underline; }
 span.sout {text-decoration: line-through }
 span.xout {text-decoration: line-through }
 span.uwave {text-decoration:underline }
 .underline-d{ border-bottom: 3px double black; margin-bottom:1pt; }
+.rotatebox{display: inline-block;}
 .figure img.graphics {margin-left:10%;}
+.lstlisting .label{margin-right:0.5em; }
+div.lstlisting{font-family: monospace; white-space: nowrap; margin-top:0.5em; margin-bottom:0.5em; }
+div.lstinputlisting{ font-family: monospace; white-space: nowrap; }
+.lstinputlisting .label{margin-right:0.5em;}
+div.caption {text-align:left;font-size:83%;text-indent:0em; margin-left:2em; margin-right:2em; }
+div.caption span.id{font-variant: small-caps; white-space: nowrap; }
+.figure div.caption{text-align: center;}
+div.figure{text-align:center;clear:both;overflow:auto;width:100%;margin-bottom:1em;}
+div.float{text-align:center;clear:both;overflow:auto;width:100%;margin-bottom:1em;}
+.table div.caption{text-align: center;}
+div.table{text-align:center;clear:both;overflow:auto;width:100%;margin-bottom:1em;}
+.subfigure img{display:block; margin-left:auto; margin-right:auto}
 /* end css.sty */
 
