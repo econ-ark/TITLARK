@@ -26,9 +26,7 @@ To minimize problems that can crop up with differences across computing platform
 
 But everything we do should be replicable by students on their own laptops if they install HARK and the free “Anaconda” python stack (set of compuataional tools).
 
-Steps:
-
-1.  Install [Anaconda](https://docs.anacondacom/anaconda/install): [https://docs.anacondacom/anaconda/install](https://docs.anacondacom/anaconda/install)
+1.  Install [Anaconda](https://docs.anaconda.com/anaconda/install): [https://docs.anaconda.com/anaconda/install](https://docs.anaconda.com/anaconda/install)
 2.  Get Git
     -   [Get the command-line tool](https://atlassian.com/git/tutorials/install-git): [https://atlassian.com/git/tutorials/install-git](https://atlassian.com/git/tutorials/install-git)
     -   [Get a GitHub Account](https://github.com/join)
@@ -39,75 +37,88 @@ Steps:
 4.  Clone the [DemARK](https://github.com/https://github.com/econ-ark/DemARK) and [REMARK](https://github.com/https://github.com/econ-ark/REMARK) repos
     -   git clone https://github.com/https://github.com/econ-ark/DemARK
     -   git clone https://github.com/https://github.com/econ-ark/REMARK
-5.  Using the python command line:
-        cd \[directory where you installed the DemARK repo\]/notebooks   
-        python -m nose
+5.  Using python from the command line:
+    -   pip install nose
+    -   python -c import HARK ; print(HARK.\_\_file\_\_)
+    -   cd \[root directory for HARK\]
+    -   python nose
 
 ### 2  Motivation
-
-#### 2.1  Motivation
 
 Models with serious microfoundations yield fundamentally different conclusions than RA models about core questions in macroeconomics.
 
 1.  How monetary policy works
     -   HA channels account for most of the mechanism of monetary transmission
-2.  What made the Great Recession Great
+2.  Whether fiscal policy works
+    -   ‘serious’ HA models are consistent with evidence of MPC’s of 0.5
+3.  What made the Great Recession Great
     -   RA models: Mostly a supply shock
     -   HA models: Mostly a demand shock
 
 Slides:
 
 -   [Intro to Monetary Policy with Heterogeneity](https://github.com/llorracc/resources/blob/master/Slides/CrawleyMonPolicywithHeterogeniety.pdf), [Crawley](#XCrawleyMonPolicywithHeterogeneity) ([2019](#XCrawleyMonPolicywithHeterogeneity))
--   Bayer and Luetticke: [Intro to Monetary Policy with Heterogeneity](https://github.com/llorracc/resources/blob/master/Slides/CrawleyMonPolicywithHeterogeniety.pdf), [Crawley](#XCrawleyMonPolicywithHeterogeneity) ([2019](#XCrawleyMonPolicywithHeterogeneity))
+-   [Luetticke-RANK](https://github.com/llorracc/Figures/Luetticke-RANK-DS-Smoother-of-logY.png)
+-   [Luetticke-HANK](https://github.com/llorracc/Figures/Luetticke-RANK-DS-Smoother-of-logY.png)
 
 Readings:
 
 -   Ahn et al ([2017](#XakmwwInequality)), Introduction, Conclusion
-    -   Provide a compact and well written discussion of the state and progress of HA macro.
--   [Carroll and Crawley](#XakmwwInequality-Discuss) ([2017](#XakmwwInequality-Discuss)), [Sections 1, 2, and 4](http://econ.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/)
+    -   Compact and well written discussion of the state and progress of HA macro.
+-   [Carroll and Crawley](#XakmwwInequality-Discuss) ([2017](#XakmwwInequality-Discuss)), [Sections 1, 2, and 4](http://econ.jhu.edu/people/ccarroll/discuss/2017-04-NBER-Macro-Annual/akmwwInequality/)
     -   [This discussion](http://econ.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/) of that paper puts the relationship of HA to RA models in context.
 
-#### 2.2  Micro Consumption Theory Refresher
+### 3  Micro Models
 
-##### 2.2.1  The Infinite Horizon Perfect Foresight Model
+#### 3.1  Micro Consumption Theory Refresher
+
+##### 3.1.1  The Infinite Horizon Perfect Foresight Model
 
 Notes:
 
--   [Consumption Under Perfect Foresight and CRRA Utility](http://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/PerfForesightCRRA/)
+-   [Consumption Under Perfect Foresight and CRRA Utility](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/PerfForesightCRRA/)
+-   [The Certainty Equivalent Consumption Function](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/ConsumptionFunction/)
 
-##### 2.2.2  Consumption With Labor Income Uncertainty
+##### 3.1.2  Consumption With Labor Income Uncertainty
 
--   Notebook: [Theoretical Foundations of Buffer Stock Saving](https://github.com/econ-ark/QuARK/blob/master/notebooks/BufferStockTheory-Problems.ipynb)
+-   Notes:    [A Tractable Model of Buffer Stock Saving](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/)
+-   Notebook: [Interactive Demo](https://next.datahub.ac/open/13/DemARK/notebooks/TractableBufferStockQuickDemo.ipynb)
 
-##### 2.2.3  The Special Case of Rate-Of-Return Uncertainty
+##### 3.1.3  The Special Case of Rate-Of-Return Uncertainty
 
-Notes: [Consumption out of Risky Assets](http://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/CRRA-RateRisk/)
+Notes:
 
 Origins: [Merton](#Xmerton:restat) ([1969](#Xmerton:restat)), [Samuelson](#Xsamuelson:portfolio) ([1969](#Xsamuelson:portfolio))
 
-##### 2.2.4  Habits
+##### 3.1.4  Habits
 
 Notes:
 
--   [Consumption Models with Habit Formation](http://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/)
+-   [Consumption Models with Habit Formation](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/)
 
-### 3  Computational Tools
+### 4  Computational Tools
 
-#### 3.1  Vision for the Econ-ARK Project
+#### 4.1  Vision for the Econ-ARK Project
 
 -   [Intro-To-Econ-ARK](https://github.com/econ-ark/PARK/blob/master/Intro-To-Econ-ARK-Overlay.pdf)
 
-### 4  Hands-On Introduction
+### 5  Hands-On Introduction
 
 Here we will explain how to begin using the [Econ-ARK](http://econ-ark.org) toolkit for heterogeneous agent macro modeling, and will guide students through the use of the toolkit to solve increasingly sophisticated models, starting with partial equilibrium perfect foresight models and ending with some exercises using a full general equilibrium micro-macro model with idiosyncratic and aggregate risks.
 
-#### 4.1  A Gentle Introduction
+#### 5.1  A Gentle Introduction
 
-Notebook: [A Gentle Introduction to HARK](https://mybinder.org/v2/gh/econ-ark/DemARK/master?filepath=notebooks/Gentle-Intro-To-HARK.ipynb)
+This section builds our first simple models using the toolkit
 
-##### 4.1.1  
+We introduce, then build on, the ‘AgentType‘ class
 
-##### 4.1.2  Adding ‘Serious’ Income Uncertainty
+##### 5.1.1  Perfect Foresight
+
+Notebook: [A Gentle Introduction to HARK - Perfect Foresight](https://next.datahub.ac/open/13/DemARK/notebooks/Gentle-Intro-To-HARK-PerfForesightCRRA.ipynb)
+
+##### 5.1.2  Adding ‘Serious’ Income Uncertainty
+
+Notebook: [A Gentle Introduction to Buffer Stock Saving](https://next.datahub.ac/open/13/DemARK/notebooks/Gentle-Intro-To-HARK-Buffer-Stock-Model.ipynb)
 
 ### References
 

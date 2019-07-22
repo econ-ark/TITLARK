@@ -97,13 +97,13 @@ machine configuration set up by Alphacruncher.
 </p><!--l. 53--><p class="indent" >  But everything we do should be replicable by students on their own laptops if
 they install HARK and the free &#8220;Anaconda&#8221; python stack (set of compuataional
 tools).
-</p><!--l. 56--><p class="indent" >  Steps:
+</p><!--l. 58--><p class="indent" >
       </p><ol  class="enumerate1" >
       <li 
   class="enumerate" id="x1-2002x1">Install <a 
-href="https://docs.anacondacom/anaconda/install" >Anaconda</a>: <a 
-href="https://docs.anacondacom/anaconda/install" class="url" ><span 
-class="ectt-1200">https://docs.anacondacom/anaconda/install</span></a>
+href="https://docs.anaconda.com/anaconda/install" >Anaconda</a>: <a 
+href="https://docs.anaconda.com/anaconda/install" class="url" ><span 
+class="ectt-1200">https://docs.anaconda.com/anaconda/install</span></a>
       </li>
       <li 
   class="enumerate" id="x1-2004x2">Get Git
@@ -143,179 +143,167 @@ class="ectt-1200">git clone https://github.com/https://github.com/econ-ark/DemAR
 class="ectt-1200">git clone https://github.com/https://github.com/econ-ark/REMARK</span></li></ul>
       </li>
       <li 
-  class="enumerate" id="x1-2010x5">Using the python command line: <!--l. 79-->
-      <div class="lstlisting" id="listing-1"><span class="label"><a 
- id="x1-2011r1"></a></span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">cd</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">[</span><span 
-class="ectt-1200">directory</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">where</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">you</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">installed</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">the</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">DemARK</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">repo</span><span 
-class="ectt-1200">]/</span><span 
-class="ectt-1200">notebooks</span><span 
-class="ectt-1200">&#x00A0;</span><br /><span class="label"><a 
- id="x1-2012r2"></a></span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">python</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">-</span><span 
-class="ectt-1200">m</span><span 
-class="ectt-1200">&#x00A0;</span><span 
-class="ectt-1200">nose</span>
-      
-      </div>
+  class="enumerate" id="x1-2010x5">Using python from the command line:
+           <div class="quote">
+    <ul class="itemize1">
+    <li class="itemize">pip install nose
+    </li>
+    <li class="itemize">python -c import HARK ; print(HARK.__file__)
+    </li>
+    <li class="itemize">cd [root directory for HARK]
+    </li>
+    <li class="itemize">python nose</li></ul>
+           </div>
       </li></ol>
-<!--l. 85--><p class="noindent" >
+<!--l. 60--><p class="noindent" >
 </p>
   <h3 class="sectionHead"><span class="titlemark">2  </span> <a 
  id="x1-30002"></a>Motivation</h3>
-<!--l. 88--><p class="noindent" >
-</p>
-  <h4 class="subsectionHead"><span class="titlemark">2.1  </span> <a 
- id="x1-40002.1"></a>Motivation</h4>
-<!--l. 89--><p class="noindent" >Models with serious microfoundations yield fundamentally different conclusions than RA
+<!--l. 60--><p class="noindent" >Models with serious microfoundations yield fundamentally different conclusions than RA
 models about core questions in macroeconomics.
       </p><ol  class="enumerate1" >
       <li 
-  class="enumerate" id="x1-4002x1">How monetary policy works
+  class="enumerate" id="x1-3002x1">How monetary policy works
            <ul class="itemize1">
            <li class="itemize">HA channels account for most of the mechanism of monetary transmission</li></ul>
       </li>
       <li 
-  class="enumerate" id="x1-4004x2">What made the Great Recession Great
+  class="enumerate" id="x1-3004x2">Whether fiscal policy works
+           <ul class="itemize1">
+           <li class="itemize">&#8216;serious&#8217; HA models are consistent with evidence of MPC&#8217;s of 0.5</li></ul>
+                                                                                     
+                                                                                     
+      </li>
+      <li 
+  class="enumerate" id="x1-3006x3">What made the Great Recession Great
            <ul class="itemize1">
            <li class="itemize">RA models: Mostly a supply shock
            </li>
            <li class="itemize">HA models: Mostly a demand shock</li></ul>
       </li></ol>
-<!--l. 89--><p class="noindent" >Slides: </p>
-                                                                                     
-                                                                                     
+<!--l. 60--><p class="noindent" >Slides: </p>
       <ul class="itemize1">
       <li class="itemize"><a 
 href="https://github.com/llorracc/resources/blob/master/Slides/CrawleyMonPolicywithHeterogeniety.pdf" >Intro to Monetary Policy with Heterogeneity</a>, <a 
 href="#XCrawleyMonPolicywithHeterogeneity">Crawley</a>&#x00A0;(<a 
 href="#XCrawleyMonPolicywithHeterogeneity">2019</a>)
       </li>
-      <li class="itemize">Bayer and Luetticke: <a 
-href="https://github.com/llorracc/resources/blob/master/Slides/CrawleyMonPolicywithHeterogeniety.pdf" >Intro to Monetary Policy with Heterogeneity</a>, <a 
-href="#XCrawleyMonPolicywithHeterogeneity">Crawley</a>&#x00A0;(<a 
-href="#XCrawleyMonPolicywithHeterogeneity">2019</a>)</li></ul>
-<!--l. 89--><p class="noindent" >Readings: </p>
+      <li class="itemize"><a 
+href="https://github.com/llorracc/Figures/Luetticke-RANK-DS-Smoother-of-logY.png" >Luetticke-RANK</a>
+      </li>
+      <li class="itemize"><a 
+href="https://github.com/llorracc/Figures/Luetticke-RANK-DS-Smoother-of-logY.png" >Luetticke-HANK</a></li></ul>
+<!--l. 60--><p class="noindent" >Readings: </p>
       <ul class="itemize1">
       <li class="itemize">Ahn et al (<a 
 href="#XakmwwInequality">2017</a>), Introduction, Conclusion
            <ul class="itemize2">
-           <li class="itemize">Provide a compact and well written discussion of the state and progress of
-           HA macro.</li></ul>
+           <li class="itemize">Compact and well written discussion of the state and progress of HA macro.</li></ul>
       </li>
       <li class="itemize"><a 
 href="#XakmwwInequality-Discuss">Carroll and Crawley</a>&#x00A0;(<a 
 href="#XakmwwInequality-Discuss">2017</a>), <a 
-href="http://econ.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/" >Sections 1, 2, and 4</a>
+href="http://econ.jhu.edu/people/ccarroll/discuss/2017-04-NBER-Macro-Annual/akmwwInequality/" >Sections 1, 2, and 4</a>
            <ul class="itemize2">
            <li class="itemize"><a 
 href="http://econ.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/" >This discussion</a> of that paper puts the relationship of HA to RA models in
            context.</li></ul>
       </li></ul>
-<!--l. 91--><p class="noindent" >
+<!--l. 62--><p class="noindent" >
 </p>
-  <h4 class="subsectionHead"><span class="titlemark">2.2  </span> <a 
- id="x1-50002.2"></a>Micro Consumption Theory Refresher</h4>
-<!--l. 94--><p class="noindent" >
+  <h3 class="sectionHead"><span class="titlemark">3  </span> <a 
+ id="x1-40003"></a>Micro Models</h3>
+                                                                                     
+                                                                                     
+<!--l. 63--><p class="noindent" >
 </p>
-  <h5 class="subsubsectionHead"><span class="titlemark">2.2.1  </span> <a 
- id="x1-60002.2.1"></a>The Infinite Horizon Perfect Foresight Model</h5>
-<!--l. 94--><p class="noindent" >Notes: </p>
+  <h4 class="subsectionHead"><span class="titlemark">3.1  </span> <a 
+ id="x1-50003.1"></a>Micro Consumption Theory Refresher</h4>
+<!--l. 66--><p class="noindent" >
+</p>
+  <h5 class="subsubsectionHead"><span class="titlemark">3.1.1  </span> <a 
+ id="x1-60003.1.1"></a>The Infinite Horizon Perfect Foresight Model</h5>
+<!--l. 66--><p class="noindent" >Notes: </p>
       <ul class="itemize1">
       <li class="itemize"><a 
-href="http://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/PerfForesightCRRA/" >Consumption Under Perfect Foresight and CRRA Utility</a></li></ul>
-                                                                                     
-                                                                                     
-<!--l. 95--><p class="noindent" >
+href="http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/PerfForesightCRRA/" >Consumption Under Perfect Foresight and CRRA Utility</a>
+      </li>
+      <li class="itemize"><a 
+href="http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/ConsumptionFunction/" >The Certainty Equivalent Consumption Function</a></li></ul>
+<!--l. 67--><p class="noindent" >
 </p>
-  <h5 class="subsubsectionHead"><span class="titlemark">2.2.2  </span> <a 
- id="x1-70002.2.2"></a>Consumption With Labor Income Uncertainty</h5>
+  <h5 class="subsubsectionHead"><span class="titlemark">3.1.2  </span> <a 
+ id="x1-70003.1.2"></a>Consumption With Labor Income Uncertainty</h5>
       <ul class="itemize1">
+      <li class="itemize">Notes:&#x00A0;&#x00A0;&#x00A0; <a 
+href="http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/" >A Tractable Model of Buffer Stock Saving</a>
+      </li>
       <li class="itemize">Notebook: <a 
-href="https://github.com/econ-ark/QuARK/blob/master/notebooks/BufferStockTheory-Problems.ipynb" >Theoretical Foundations of Buffer Stock Saving</a></li></ul>
-<!--l. 96--><p class="noindent" >
+href="https://next.datahub.ac/open/13/DemARK/notebooks/TractableBufferStockQuickDemo.ipynb" >Interactive Demo</a></li></ul>
+<!--l. 68--><p class="noindent" >
 </p>
-  <h5 class="subsubsectionHead"><span class="titlemark">2.2.3  </span> <a 
- id="x1-80002.2.3"></a>The Special Case of Rate-Of-Return Uncertainty</h5>
-<!--l. 96--><p class="noindent" >Notes: <a 
-href="http://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/CRRA-RateRisk/" >Consumption out of Risky Assets</a>
-</p><!--l. 96--><p class="noindent" >Origins: <a 
+  <h5 class="subsubsectionHead"><span class="titlemark">3.1.3  </span> <a 
+ id="x1-80003.1.3"></a>The Special Case of Rate-Of-Return Uncertainty</h5>
+<!--l. 68--><p class="noindent" >Notes:
+</p><!--l. 68--><p class="noindent" >Origins: <a 
 href="#Xmerton:restat">Merton</a>&#x00A0;(<a 
 href="#Xmerton:restat">1969</a>), <a 
 href="#Xsamuelson:portfolio">Samuelson</a>&#x00A0;(<a 
 href="#Xsamuelson:portfolio">1969</a>)
+                                                                                     
+                                                                                     
 </p>
-  <h5 class="subsubsectionHead"><span class="titlemark">2.2.4  </span> <a 
- id="x1-90002.2.4"></a>Habits</h5>
-<!--l. 97--><p class="noindent" >Notes: </p>
+  <h5 class="subsubsectionHead"><span class="titlemark">3.1.4  </span> <a 
+ id="x1-90003.1.4"></a>Habits</h5>
+<!--l. 69--><p class="noindent" >Notes: </p>
       <ul class="itemize1">
       <li class="itemize"><a 
-href="http://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/" >Consumption Models with Habit Formation</a></li></ul>
-<!--l. 99--><p class="noindent" >
+href="http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/" >Consumption Models with Habit Formation</a></li></ul>
+<!--l. 71--><p class="noindent" >
 </p>
-  <h3 class="sectionHead"><span class="titlemark">3  </span> <a 
- id="x1-100003"></a>Computational Tools</h3>
-<!--l. 100--><p class="noindent" >
+  <h3 class="sectionHead"><span class="titlemark">4  </span> <a 
+ id="x1-100004"></a>Computational Tools</h3>
+<!--l. 72--><p class="noindent" >
 </p>
-  <h4 class="subsectionHead"><span class="titlemark">3.1  </span> <a 
- id="x1-110003.1"></a>Vision for the Econ-ARK Project</h4>
+  <h4 class="subsectionHead"><span class="titlemark">4.1  </span> <a 
+ id="x1-110004.1"></a>Vision for the Econ-ARK Project</h4>
       <ul class="itemize1">
       <li class="itemize"><a 
 href="https://github.com/econ-ark/PARK/blob/master/Intro-To-Econ-ARK-Overlay.pdf" >Intro-To-Econ-ARK</a></li></ul>
-                                                                                     
-                                                                                     
-<!--l. 102--><p class="noindent" >
+<!--l. 74--><p class="noindent" >
 </p>
-  <h3 class="sectionHead"><span class="titlemark">4  </span> <a 
- id="x1-120004"></a>Hands-On Introduction</h3>
-<!--l. 104--><p class="noindent" >Here we will explain how to begin using the <a 
+  <h3 class="sectionHead"><span class="titlemark">5  </span> <a 
+ id="x1-120005"></a>Hands-On Introduction</h3>
+<!--l. 76--><p class="noindent" >Here we will explain how to begin using the <a 
 href="http://econ-ark.org" >Econ-ARK</a> toolkit for heterogeneous agent macro
 modeling, and will guide students through the use of the toolkit to solve increasingly
 sophisticated models, starting with partial equilibrium perfect foresight models and ending
 with some exercises using a full general equilibrium micro-macro model with idiosyncratic and
 aggregate risks.
-</p><!--l. 108--><p class="noindent" >
+</p><!--l. 80--><p class="noindent" >
 </p>
-  <h4 class="subsectionHead"><span class="titlemark">4.1  </span> <a 
- id="x1-130004.1"></a>A Gentle Introduction</h4>
-<!--l. 108--><p class="noindent" >Notebook: <a 
-href="https://mybinder.org/v2/gh/econ-ark/DemARK/master?filepath=notebooks/Gentle-Intro-To-HARK.ipynb" >A Gentle Introduction to HARK</a>
-</p><!--l. 111--><p class="noindent" >
+                                                                                     
+                                                                                     
+  <h4 class="subsectionHead"><span class="titlemark">5.1  </span> <a 
+ id="x1-130005.1"></a>A Gentle Introduction</h4>
+<!--l. 80--><p class="noindent" >This section builds our first simple models using the toolkit
+</p><!--l. 80--><p class="indent" >  We introduce, then build on, the &#8216;AgentType&#8216; class
+</p><!--l. 83--><p class="noindent" >
 </p>
-  <h5 class="subsubsectionHead"><span class="titlemark">4.1.1  </span> <a 
- id="x1-140004.1.1"></a></h5>
-<!--l. 112--><p class="noindent" >
+  <h5 class="subsubsectionHead"><span class="titlemark">5.1.1  </span> <a 
+ id="x1-140005.1.1"></a>Perfect Foresight</h5>
+<!--l. 83--><p class="noindent" >Notebook: <a 
+href="https://next.datahub.ac/open/13/DemARK/notebooks/Gentle-Intro-To-HARK-PerfForesightCRRA.ipynb" >A Gentle Introduction to HARK - Perfect Foresight</a>
+</p><!--l. 84--><p class="noindent" >
 </p>
-  <h5 class="subsubsectionHead"><span class="titlemark">4.1.2  </span> <a 
- id="x1-150004.1.2"></a>Adding &#8216;Serious&#8217; Income Uncertainty</h5>
-<!--l. 5--><p class="noindent" >
+  <h5 class="subsubsectionHead"><span class="titlemark">5.1.2  </span> <a 
+ id="x1-150005.1.2"></a>Adding &#8216;Serious&#8217; Income Uncertainty</h5>
+<!--l. 84--><p class="noindent" >Notebook: <a 
+href="https://next.datahub.ac/open/13/DemARK/notebooks/Gentle-Intro-To-HARK-Buffer-Stock-Model.ipynb" >A Gentle Introduction to Buffer Stock Saving</a>
+</p><!--l. 5--><p class="noindent" >
 </p>
   <h3 class="likesectionHead"><a 
- id="x1-160004.1.2"></a>References</h3>
+ id="x1-160005.1.2"></a>References</h3>
 <!--l. 5--><p class="noindent" >
   </p><div class="thebibliography">
   <p class="bibitem" ><span class="biblabel">
@@ -393,8 +381,6 @@ class="small-caps">l</span><span
 class="small-caps">f</span> </span>(2017): &#8220;When Inequality Matters for Macro and Macro Matters
   for Inequality,&#8221; <span 
 class="ecti-1200">NBER Macroeconomics Annual</span>, 32.
-                                                                                     
-                                                                                     
   </p>
   <p class="bibitem" ><span class="biblabel">
 <a 
@@ -466,6 +452,8 @@ class="small-caps">e</span><span
 class="small-caps">y</span>  </span>(2017):  &#8220;Discussion  of
   &#8216;When Inequality Matters for Macro and Macro Matters for Inequality&#8217;,&#8221; Discussion
   paper, NBER.
+                                                                                     
+                                                                                     
   </p>
   <p class="bibitem" ><span class="biblabel">
 <a 
@@ -676,8 +664,6 @@ class="small-caps">a</span><span
 class="small-caps">.</span> </span>(1969): &#8220;Lifetime Portfolio Selection by Dynamic Stochastic
   Programming,&#8221; <span 
 class="ecti-1200">Review of Economics and Statistics</span>, 51, 239&#8211;46.
-                                                                                     
-                                                                                     
   </p>
   <p class="bibitem" ><span class="biblabel">
 <a 
@@ -726,6 +712,8 @@ class="small-caps">e</span><span
 class="small-caps">t</span> </span>(2016): &#8220;Macroeconomic Research After the Crisis,&#8221;  Available at
   <a 
 href="https://www.federalreserve.gov/newsevents/speech/yellen20161014a.htm" >https://www.federalreserve.gov/newsevents/speech/yellen20161014a.htm</a>.
+                                                                                     
+                                                                                     
 </p>
   </div>
    
