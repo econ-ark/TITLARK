@@ -30,7 +30,7 @@ But everything we do should be replicable by students on their own laptops if th
 2.  Get Git
     -   [Get the command-line tool](https://atlassian.com/git/tutorials/install-git): [https://atlassian.com/git/tutorials/install-git](https://atlassian.com/git/tutorials/install-git)
     -   [Get a GitHub Account](https://github.com/join)
-    -   [Download the GitHub Desktop App](https://github.com/join)
+    -   [Download the GitHub Desktop App](https://desktop.github.com)
         -   And connect it to your online GitHub account
 3.  [Install HARK](https://github.com/https://github.com/econ-ark/HARK#Installing-Hark): Go to “Quick Start” in the README.md
     -   Follow the instructions for installing HARK for Anaconda
@@ -65,7 +65,7 @@ Readings:
 
 -   Ahn et al ([2017](#XakmwwInequality)), Introduction, Conclusion
     -   Compact and well written discussion of the state and progress of HA macro.
--   [Carroll and Crawley](#XakmwwInequality-Discuss) ([2017](#XakmwwInequality-Discuss)), [Sections 1, 2, and 4](http://econ.jhu.edu/people/ccarroll/discuss/2017-04-NBER-Macro-Annual/akmwwInequality/)
+-   [Carroll and Crawley](#XakmwwInequality-Discuss) ([2017](#XakmwwInequality-Discuss)), [Sections 1, 2, and 4](http://econ.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/)
     -   [This discussion](http://econ.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/) of that paper puts the relationship of HA to RA models in context.
 
 ### 3  Micro Models
