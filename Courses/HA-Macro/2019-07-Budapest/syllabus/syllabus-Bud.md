@@ -34,9 +34,9 @@ But everything we do should be replicable by students on their own laptops if th
         -   And connect it to your online GitHub account
 3.  [Install HARK](https://github.com/https://github.com/econ-ark/HARK#Installing-Hark): Go to “Quick Start” in the README.md
     -   Follow the instructions for installing HARK for Anaconda
-4.  Clone the [DemARK](https://github.com/https://github.com/econ-ark/DemARK) and [REMARK](https://github.com/https://github.com/econ-ark/REMARK) repos
-    -   git clone https://github.com/https://github.com/econ-ark/DemARK
-    -   git clone https://github.com/https://github.com/econ-ark/REMARK
+4.  Clone the [DemARK](https://github.com/econ-ark/DemARK) and [REMARK](https://github.com/econ-ark/REMARK) repos
+    -   git clone https://github.com/econ-ark/DemARK
+    -   git clone https://github.com/econ-ark/REMARK
 5.  Using python from the command line:
     -   pip install nose
     -   python -c import HARK ; print(HARK.\_\_file\_\_)
