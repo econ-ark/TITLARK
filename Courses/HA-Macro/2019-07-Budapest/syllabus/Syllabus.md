@@ -2,11 +2,11 @@ Hands-On Heterogeneous Agent Macroeconomics Using the [Econ-ARK/HARK](http://eco
 
 [Christopher D. Carroll](http://www.econ2.jhu.edu/people/ccarroll)
 
-Syllabus for a short course on Heterogeneous Agent Macroeconomics
+Syllabus for Advanced Topics in Macroeconomics
 
-Budapest School of Central Bank Studies
+Johns Hopkins University
 
-July, 2019
+Fall, 2019
 
 Because Representative Agent (‘RA’) models were not useful for understanding much of what happened in the Great Recession, policymakers including Larry [Summers](#XsummersWolf2) ([2011](#XsummersWolf2)), Fed Chair Janet [Yellen](#XyellenHetero) ([2016](#XyellenHetero)), former IMF Chief Economist Olivier [Blanchard](#XblanchardDSGE) ([2016](#XblanchardDSGE)), ECB Governing Board Member Benoit [Coeure](#XcoeureHetero) ([2013](#XcoeureHetero)), and Bank of England Chief Economist Andy [Haldane](#XhaldaneDappled) ([2016](#XhaldaneDappled)) have suggested that incorporation of heterogeneity (for example, across borrowers and lenders) must be an essential part of the agenda in developing new and better models. In confirmation of that intuition, a number of recent papers, most notably [Kaplan, Moll, and Violante](#XkmvHANK) ([2018](#XkmvHANK)) and [Krueger, Mitman, and Perri](#XkmpHandbook) ([2016](#XkmpHandbook)), have developed models that include a realistic description of microeconomic heterogeneity, and have shown that such models can generate more sensible macroeconomic implications than RA models for important questions like the operation of fiscal and monetary policy.
 
@@ -19,12 +19,6 @@ Students should bring a laptop on which they have permissions to install and run
 (In “readings” below, starred readings are strongly suggested)
 
 ### 1  Preliminaries
-
-I have hired a team of people from [Alphacruncher](https://alphacruncher.com) to help with some of the technical and communications setup for the course, and a team member will be present at the beginning of the first day of classes, so we will begin the “hands-on” aspect of the coruse from the very beginning.
-
-To minimize problems that can crop up with differences across computing platforms and security, we will be doing most of the work for the class “in the cloud” – using a virtual machine configuration set up by Alphacruncher.
-
-But everything we do should be replicable by students on their own laptops if they install HARK and the free “Anaconda” python stack (set of compuataional tools).
 
 1.  Install [Anaconda](https://docs.anaconda.com/anaconda/install): [https://docs.anaconda.com/anaconda/install](https://docs.anaconda.com/anaconda/install)
 2.  Get Git
@@ -85,6 +79,10 @@ Notes:
 
 -   Notes:    [A Tractable Model of Buffer Stock Saving](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/)
 -   Notebook: [Interactive Demo](https://mybinder.org/v2/gh/econ-ark/DemARK/master?filepath=notebooks/TractableBufferStockQuickDemo.ipynb)
+
+Readings
+
+-   [Carroll](#Xcarroll:death) ([2001](#Xcarroll:death))
 
 ##### 3.1.3  Rate-Of-Return Uncertainty without Labor Income
 
@@ -201,6 +199,8 @@ References:
    blanchard, olivier (2016): “Do DSGE Models Have a Future?,” Discussion paper, Petersen Institute for International Economics, Available at <https://piie.com/system/files/documents/pb16-11.pdf>.
 
    boppart, timo, per krusell, and kurt mitman (2018): “Exploiting MIT Shocks in Heterogeneous-Agent Economies: The Impulse Response as a Numerical Derivative,” Journal of Economic Dynamics and Control, 89(C), 68–92.
+
+   carroll, christopher d. (2001): “Death to the Log-Linearized Consumption Euler Equation! (And Very Poor Health to the Second-Order Approximation),” Advances in Macroeconomics, 1(1), Article 6, [http://econ.jhu.edu/people/ccarroll/death.pdf](http://econ.jhu.edu/people/ccarroll/death.pdf).
 
    carroll, christopher d., and edmund crawley (2017): “Discussion of ‘When Inequality Matters for Macro and Macro Matters for Inequality’,” Discussion paper, NBER.
 
