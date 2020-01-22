@@ -20,6 +20,10 @@ Students should bring a laptop on which they have permissions to install and run
 
 ### 1  Preliminaries
 
+Certain things must be done to prepare for running everything on your own computer
+
+#### 1.1  Option 1: Do Everything On Your Own Computer’s OS
+
 1.  Install [Anaconda](https://docs.anaconda.com/anaconda/install): [https://docs.anaconda.com/anaconda/install](https://docs.anaconda.com/anaconda/install)
 2.  Get Git
     -   [Get the command-line tool](https://atlassian.com/git/tutorials/install-git): [https://atlassian.com/git/tutorials/install-git](https://atlassian.com/git/tutorials/install-git)
@@ -36,6 +40,12 @@ Students should bring a laptop on which they have permissions to install and run
     -   python -c import HARK ; print(HARK.\_\_file\_\_)
     -   cd \[root directory for HARK\]
     -   python -m nose
+
+#### 1.2  Option 2: Do Everything On a Virtual Machine
+
+1.  Find (or buy) free space of at least 100 GB
+    -   A FAST flash/pen drive is fine (not a slow one)
+2.  -   Follow the instructions [for installing your VM](https://github.com/econ-ark/econ-ark-tools/tree/master/Virtual/Machine/VirtualBox)
 
 ### 2  Motivation
 
@@ -78,7 +88,7 @@ Notes:
 ##### 3.1.2  Consumption With Labor Income Uncertainty
 
 -   Notes:    [A Tractable Model of Buffer Stock Saving](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/)
--   Notebook: [Interactive Demo](https://mybinder.org/v2/gh/econ-ark/DemARK/master?filepath=notebooks/TractableBufferStockQuickDemo.ipynb)
+-   Notebook: [Interactive Demo](https://beta.econ-ark.org/materials/TractableBufferStockQuickDemo)
 
 Readings
 
@@ -119,7 +129,7 @@ This section builds our first simple models using the toolkit
 
 ##### 5.1.1  Perfect Foresight
 
-Notebook: [A Gentle Introduction to HARK - Perfect Foresight](https://mybinder.org/v2/gh/econ-ark/DemARK/master?filepath=notebooks/Gentle-Intro-To-HARK-PerfForesightCRRA.ipynb)
+Notebook: [A Gentle Introduction to HARK - Perfect Foresight](https://beta.econ-ark.org/materials/gentle-intro-to-hark-perfforesightcrra)
 
 ##### 5.1.2  Adding ‘Serious’ Income Uncertainty
 
@@ -131,11 +141,11 @@ Notebook: [A Gentle Introduction to Buffer Stock Saving](https://mybinder.org/v2
 2.  Liquidity Constraints and Precautionary Saving
 3.  Impatience and Target Wealth
 
-Notebook: [BufferStockTheory Problems](https://mybinder.org/v2/gh/econ-ark/REMARK/master?filepath=REMARKs/BufferStockTheory/BufferStockTheory-Problems.ipynb)
+Notebook: [BufferStockTheory Problems](https://beta.econ-ark.org/materials/BufferStockTheory-Problems.ipynb)
 
 #### 5.3  ‘Serious’ Wealth Inequality
 
-Notebook: [Micro-and-Macro-Implications-of-Very-Impatient-HHs-Problems](https://mybinder.org/v2/gh/econ-ark/DemARK/master?filepath=notebooks/Micro-and-Macro-Implications-of-Very-Impatient-HHs-Problems.ipynb)
+Notebook: [Micro-and-Macro-Implications-of-Very-Impatient-HHs](https://beta.econ-ark.org/materials/micro-and-macro-implications-of-very-impatient-hhs)
 
 References: [Carroll, Slacalek, Tokuoka, and White](#XcstwMPC) ([2017](#XcstwMPC))
 
@@ -157,7 +167,7 @@ In a rational expectations steady state, there are no expected changes in intere
 
 The problem therefore suffers from a severe case of the “curse of dimensionality.” (That is, it’s really hard!). The first paper to tackle the problem was [Krusell and Smith](#XksHetero) ([1998](#XksHetero)). Work by [Bayer and Luetticke](#XblSolving) ([2018](#XblSolving)) builds on all of the prior work to construct a reasonable HANK model that can be solved in a few minutes on a laptop. The key contribution of [Krusell and Smith](#XksHetero) ([1998](#XksHetero)) was to discover that, in practice, highly accurate predictions of future aggregate states could be made using only the mean of the current aggregate capital stock
 
-Notebook: [KrusellSmith.ipynb](https://mybinder.org/v2/gh/econ-ark/DemARK/master?filepath=notebooks/KrusellSmith.ipynb)
+Notebook: [KrusellSmith.ipynb](https://beta.econ-ark.org/materials/KrusellSmith.ipynb)
 
 #### 5.6  The Micro Steady State and Macro Fluctuations
 
