@@ -30,7 +30,7 @@ Certain things must be done to prepare for running everything on your own comput
     -   [Get a GitHub Account](https://github.com/join)
     -   [Download the GitHub Desktop App](https://desktop.github.com)
         -   And connect it to your online GitHub account
-3.  [Install HARK](https://github.com/econ-ark/HARK#Installing-Hark): Go to “Quick Start” in the README.md
+3.  [Install HARK](https://github.com/econ-ark/HARK#content-install)
     -   Follow the instructions for installing HARK for Anaconda
 4.  Clone the [DemARK](https://github.com/econ-ark/DemARK) and [REMARK](https://github.com/econ-ark/REMARK) repos
     -   git clone https://github.com/econ-ark/DemARK
