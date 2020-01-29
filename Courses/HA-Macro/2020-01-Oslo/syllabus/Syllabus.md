@@ -26,7 +26,8 @@ Certain things must be done to prepare for running everything on your own comput
 
 1.  Install [Anaconda](https://docs.anaconda.com/anaconda/install): [https://docs.anaconda.com/anaconda/install](https://docs.anaconda.com/anaconda/install)
 2.  Get Git
-    -   [Get the command-line tool](https://atlassian.com/git/tutorials/install-git): [https://atlassian.com/git/tutorials/install-git](https://atlassian.com/git/tutorials/install-git)
+    -   [Get the command-line tool](https://atlassian.com/git/tutorials/install-git):
+        -   [https://atlassian.com/git/tutorials/install-git](https://atlassian.com/git/tutorials/install-git)
     -   [Get a GitHub Account](https://github.com/join)
     -   [Download the GitHub Desktop App](https://desktop.github.com)
         -   And connect it to your online GitHub account
@@ -70,13 +71,26 @@ Readings:
 -   [Carroll and Crawley](#XakmwwInequality-Discuss) ([2017](#XakmwwInequality-Discuss)), [Sections 1, 2, and 4](http://econ.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/)
     -   This discussion of that paper puts the relationship of HA to RA models in context.
 
-### 3  Micro Models
+### 3  The Relation Between Micro and Macro Models
 
-#### 3.1  Micro Consumption Theory Refresher
+#### 3.1  The Relation Between Micro and Macro Models
+
+It has become clear in the last decade (and especially in the last few years) that the micro and macro parts of the HA macro problem are surprisingly independent. HA macro models can be solved by first using powerful tools to find the steady state of the micro problem, and then using other tools to calculate how the micro solution changes over the business cycle. Relatively small – or even linear – changes to even a highly nonlinear microeconomic problem can result in quantitatively plausible macroeconomic dynamics.
+
+Readings:
+
+-   [Reiter](#XreiterSolving) ([2009](#XreiterSolving))
+-   [Boppart, Krusell, and Mitman](#XbmpMITshocks) ([2018](#XbmpMITshocks))
+-   [Auclert](#XauclertMonetary) ([2019](#XauclertMonetary))
+-   [Heterogeneity and Macro Modeling In Policymaking Institutions](https://mybinder.org/v2/gh/econ-ark/PARK/master?filepath=Hetero-And-Macro/Hetero-And-Macro.ipynb),
+
+### 4  Micro Models
+
+#### 4.1  Micro Consumption Theory Refresher
 
 The course will assume that students are familiar with standard quantitative tools for solving RA models, like DYNARE. The bulk of the “hands-on” part of the course will therefore involve learning and using tools for solving micro problems with ‘serious’ microfoundations.
 
-##### 3.1.1  The Infinite Horizon Perfect Foresight Model
+##### 4.1.1  The Infinite Horizon Perfect Foresight Model
 
 Kinds of Impatience: Absolute, Return, and Growth
 
@@ -85,7 +99,7 @@ Notes:
 -   [Consumption Under Perfect Foresight and CRRA Utility](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/PerfForesightCRRA/)
 -   [The Certainty Equivalent Consumption Function](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/ConsumptionFunction/)
 
-##### 3.1.2  Consumption With Labor Income Uncertainty
+##### 4.1.2  Consumption With Labor Income Uncertainty
 
 -   Notes:    [A Tractable Model of Buffer Stock Saving](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/)
 -   Notebook: [Interactive Demo](https://econ-ark.org/materials/TractableBufferStockQuickDemo)
@@ -94,7 +108,7 @@ Readings
 
 -   [Carroll](#Xcarroll:death) ([2001](#Xcarroll:death))
 
-##### 3.1.3  Rate-Of-Return Uncertainty without Labor Income
+##### 4.1.3  Rate-Of-Return Uncertainty without Labor Income
 
 Under CRRA utility, without labor income risk:
 
@@ -108,35 +122,35 @@ Notes:
 
 Origins: [Merton](#Xmerton:restat) ([1969](#Xmerton:restat)), [Samuelson](#Xsamuelson:portfolio) ([1969](#Xsamuelson:portfolio))
 
-##### 3.1.4  Habits
+##### 4.1.4  Habits
 
 Notes:
 
 -   [Consumption Models with Habit Formation](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/)
 
-### 4  Computational Tools
+### 5  Computational Tools
 
-#### 4.1  Vision for the Econ-ARK Project
+#### 5.1  Vision for the Econ-ARK Project
 
 -   [Intro-To-Econ-ARK](https://github.com/econ-ark/PARK/blob/master/Intro-To-Econ-ARK-Overlay.pdf)
 
-### 5  Hands-On Introduction
+### 6  Hands-On Introduction
 
 Here we will explain how to begin using the [Econ-ARK](http://econ-ark.org) toolkit for heterogeneous agent macro modeling. Students will be taught how to use the toolkit to solve increasingly sophisticated models, starting with partial equilibrium perfect foresight models and ending with some exercises using a full general equilibrium micro-macro model with idiosyncratic and aggregate risks.
 
-#### 5.1  A Gentle Introduction
+#### 6.1  A Gentle Introduction
 
 This section builds our first simple models using the toolkit
 
-##### 5.1.1  Perfect Foresight
+##### 6.1.1  Perfect Foresight
 
 Notebook: [A Gentle Introduction to HARK - Perfect Foresight](https://econ-ark.org/materials/gentle-intro-to-hark-perfforesightcrra)
 
-##### 5.1.2  Adding ‘Serious’ Income Uncertainty
+##### 6.1.2  Adding ‘Serious’ Income Uncertainty
 
 Notebook: [A Gentle Introduction to Buffer Stock Saving](https://mybinder.org/v2/gh/econ-ark/DemARK/master?filepath=notebooks/Gentle-Intro-To-HARK-Buffer-Stock-Model.ipynb)
 
-#### 5.2  Liquidity Constraints, Precautionary Saving, and Impatience
+#### 6.2  Liquidity Constraints, Precautionary Saving, and Impatience
 
 1.  The Growth Impatience Condition
 2.  Liquidity Constraints and Precautionary Saving
@@ -144,18 +158,18 @@ Notebook: [A Gentle Introduction to Buffer Stock Saving](https://mybinder.org/v2
 
 Notebook: [BufferStockTheory Problems](https://econ-ark.org/materials/BufferStockTheory-Problems.ipynb)
 
-#### 5.3  ‘Serious’ Wealth Inequality
+#### 6.3  ‘Serious’ Wealth Inequality
 
 Notebook: [Micro-and-Macro-Implications-of-Very-Impatient-HHs](https://econ-ark.org/materials/micro-and-macro-implications-of-very-impatient-hhs)
 
 References: [Carroll, Slacalek, Tokuoka, and White](#XcstwMPC) ([2017](#XcstwMPC))
 
-#### 5.4  Matching the Distribution – of the MPC
+#### 6.4  Matching the Distribution – of the MPC
 
 -   : [Figure 5,](http://www.econ2.jhu.edu/people/ccarroll/papers/cstwMPC/#x1-130075) [Carroll, Slacalek, Tokuoka, and White](#XcstwMPC) ([2017](#XcstwMPC))
 -   : [Figure 10b,](https://github.com/llorracc/Figures/blob/master/Crawley-MPC-By-Liquid-Assets.png) [Crawley and Kuchler](#XckConsumption) ([2018](#XckConsumption))
 
-#### 5.5  Hands-On with Real HA Models
+#### 6.5  Hands-On with Real HA Models
 
 For an economy in steady state (that is, with constant factor prices like interest rates and wages), models with ‘serious’ income heterogeneity have been solvable in partial equilibrium since about 1990 ([Zeldes](#XzeldesStochastic) ([1989](#XzeldesStochastic)), [Deaton](#XdeatonLiqConstr) ([1991](#XdeatonLiqConstr))). Calculating an equilibrium distribution of wealth that results from those policy functions and matching it to the total amount of observed wealth (and a corresponding interest rate) was first done by [Hubbard, Skinner, and Zeldes](#Xhsz:importance) ([1994](#Xhsz:importance)) using a supercomputer. [Aiyagari](#Xaiyagari:ge) ([1994](#Xaiyagari:ge)) proposed a radically simple model that did not attempt to match the distributions of wealth and income, but could be solved without a supercomputer.
 
@@ -170,7 +184,7 @@ The problem therefore suffers from a severe case of the “curse of dimensionali
 
 Notebook: [KrusellSmith.ipynb](https://econ-ark.org/materials/KrusellSmith.ipynb)
 
-#### 5.6  The Micro Steady State and Macro Fluctuations
+#### 6.6  The Micro Steady State and Macro Fluctuations
 
 A problem with solving methods using the original Krusell Smith method is that the computational challenge was so great that only the simplest such models could be solved, and the ability to construct standard tools like impulse response functions to aggregate shocks was very limited.
 
@@ -185,14 +199,14 @@ References:
 -   [Ahn, Kaplan, Moll, Winberry, and Wolf](#XakmwwInequality) ([2017](#XakmwwInequality))
 -   [Bayer and Luetticke](#XblSolving) ([2018](#XblSolving))
 
-#### 5.7  The Bayer-Luetticke Method
+#### 6.7  The Bayer-Luetticke Method
 
 -   Notebooks:
     -   [OneAsset HANK Model](https://mybinder.org/v2/gh/econ-ark/HARK/master?filepath=HARK/BayerLuetticke/notebooks/OneAsset-HANK.ipynb)
     -   [TwoAsset HANK Model](https://mybinder.org/v2/gh/econ-ark/HARK/master?filepath=HARK/BayerLuetticke/notebooks/TwoAsset.ipynb)
     -   [DCT-Copula-Illustration](https://mybinder.org/v2/gh/econ-ark/HARK/master?filepath=HARK/BayerLuetticke/notebooks/DCT-Copula-Illustration.ipynb)
 
-#### 5.8  Other Literature
+#### 6.8  Other Literature
 
 References:
 
@@ -206,6 +220,8 @@ References:
    ahn, sehyoun, greg kaplan, benjamin moll, thomas winberry, and christian wolf (2017): “When Inequality Matters for Macro and Macro Matters for Inequality,” NBER Macroeconomics Annual, 32.
 
    aiyagari, s. rao (1994): “Uninsured Idiosyncratic Risk and Aggregate Saving,” Quarterly Journal of Economics, 109, 659–684.
+
+   auclert, adrien (2019): “Monetary policy and the redistribution channel,” American Economic Review, 109(6), 2333–67.
 
    bayer, christian, and ralph luetticke (2018): “Solving Heterogeneous Agent Models In Discrete Time With Many Idiosyncratic States By Perturbation Methods,” Centre for Economic Policy Research, Discussion Paper 13071.
 
