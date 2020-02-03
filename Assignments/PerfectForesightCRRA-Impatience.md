@@ -9,12 +9,11 @@ In your [Virtual Machine](https://github.com/econ-ark/econ-ark-tools/tree/master
 1. `cd TITLARK/notebooks`
 1. Make a copy of the notebook to put your solutions in:
    * `cp PerfForesightCRRA-Impatience-Problems.ipynb PerfForesightCRRA-Impatience-Problems-And-Solutions.ipynb`
-1. Launch a `jupyter notebook` and read through the notebook
-1. After any code cell containing `# PROBLEM`:
-   * You should create a code cell that begins with the text `# SOLUTION` 
-   * These should contain your code for answering the corresponding question
+1. From the command line, 
+   * launch a `jupyter notebook` 
+   * read through your `-And-Solutions` copy of the notebook
+   * after any code cell containing `# PROBLEM`:
+	  * You should create a code cell that begins with the text `# SOLUTION` 
+      * These should contain your code for answering the corresponding question
    
-Given the short notice, I don't expect everyone to finish the assignment by the time class starts. But I would like everyone to get as far as they can, at least to the point of having cloned the `TITLARK` repo
-
-
 
