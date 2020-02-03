@@ -1,8 +1,8 @@
-# Show Effects of IES On Consumption Function
+# Effects of 'Impatience' On Consumption Function
 
-The notebook [PerfForesightCRRA-Impatience-Problems](https://econ-ark.org/_materials/PerfForesightCRRA-Impatience-Problems) asks you to explore the relationship between various impatience factors and the consumption function.
+The notebook [PerfForesightCRRA-Impatience-Problems](https://github.com/econ-ark/QuARK/blob/master/notebooks/PerfForesightCRRA-Impatience-Problems.ipynb) asks you to explore the relationship between various impatience factors and the consumption function.
 
-In your Virtual Machine, your assignment is:
+In your [Virtual Machine](https://github.com/econ-ark/econ-ark-tools/tree/master/Virtual/Machine/VirtualBox), your assignment is:
 
 1. Change to the `GitHub/econ-ark` directory
 1. `git clone https://github.com/econ-ark/TITLARK` to get the teaching tools repo
