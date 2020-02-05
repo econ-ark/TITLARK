@@ -9,7 +9,7 @@ In your [Virtual Machine](https://github.com/econ-ark/econ-ark-tools/tree/master
 1. `cd TITLARK/notebooks`
 1. Obtain a local copy of the notebook. Options:
    1. Go to the link above, and click 'Raw' to see a text version; then "Save As ..." text to `TITLARK/notebooks`
-   1. `git curl -L https://raw.githubusercontent.com/econ-ark/QuARK/master/notebooks/PerfForesightCRRA-Impatience-Problems.ipynb`
+   1. `curl -L https://raw.githubusercontent.com/econ-ark/QuARK/master/notebooks/PerfForesightCRRA-Impatience-Problems.ipynb`
 1. Make a copy of the notebook to put your solutions in:
    * `cp PerfForesightCRRA-Impatience-Problems.ipynb PerfForesightCRRA-Impatience-Problems-And-Solutions.ipynb`
 1. From the command line,
