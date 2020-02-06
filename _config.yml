@@ -5,13 +5,8 @@ keywords: Teaching
 description: 'Teaching and Instructional Tools for Learning the ARK'
 
 timezone: America/New_York
-google_analytics: UA-118130489-1
 
 baseurl:
-
-sass:
-  sass_dir: /assets/sass
-  style: :compressed
 
 repository:
 
@@ -20,20 +15,3 @@ exclude:
   - Gemfile.lock
   - vendor/bundle
 
-collections:
-  materials:
-    output: true
-    permalink: /materials/:name
-  team:
-
-defaults:
-  - scope:
-      path: ''
-      type: 'materials'
-    values:
-      layout: material
-      published: ''
-  - scope:
-      type: 'team'
-    values:
-      order: 99
