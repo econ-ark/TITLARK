@@ -1,6 +1,6 @@
 (Warning: Internal links -- say, to references -- [do not work](https://tex.stackexchange.com/questions/264227/pandoc-breaks-hyperlinks-in-latex-file-conversion) here)
 
-(They _do_ work in [the html version](https://econ-ark.github.io/TITLARK/Courses/HA-Macro/2020-01-Oslo/syllabus/syllabus.html))
+(They _do_ work in [the html version](https://econ-ark.github.io/TITLARK/Courses/HA-Macro/2020-01-Oslo/syllabus/syllabus-Oslo.html))
 
 Hands-On Heterogeneous Agent Macroeconomics Using the
 [Econ-ARK/HARK](http://econ-ark.org) Toolkit
