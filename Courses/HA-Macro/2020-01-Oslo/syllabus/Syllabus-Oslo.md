@@ -1,3 +1,7 @@
+(Warning: Internal links -- say, to references -- [do not work](https://tex.stackexchange.com/questions/264227/pandoc-breaks-hyperlinks-in-latex-file-conversion) here)
+
+(They _do_ work in [the html version](https://econ-ark.github.io/TITLARK/HA-Macro/2020-01-/syllabus/syllabus.html))
+
 Hands-On Heterogeneous Agent Macroeconomics Using the
 [Econ-ARK/HARK](http://econ-ark.org) Toolkit
 
@@ -359,7 +363,8 @@ Matters for Inequality,” NBER Macroeconomics Annual, 32.
 Saving,” Quarterly Journal of Economics, 109, 659–684.
 
    Auclert, Adrien (2019): “Monetary policy and the redistribution
-channel,” American Economic Review, 109(6), 2333–67.
+channel,” American Economic Review, 109(6), 2333–67,
+<https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20160137>.
 
    Bayer, Christian, and Ralph Luetticke (2018): “Solving Heterogeneous
 Agent Models In Discrete Time With Many Idiosyncratic States By
@@ -443,11 +448,12 @@ Statistics, 51, 247–257.
 
    Reiter, Michael (2009): “Solving heterogeneous-agent models by
 projection and perturbation,” Journal of Economic Dynamics and Control,
-33(3), 649–665.
+33(3), 649–665,
+<https://www.sciencedirect.com/science/article/pii/S0165188908001528>.
 
    Samuelson, Paul A. (1969): “Lifetime Portfolio Selection by Dynamic
 Stochastic Programming,” Review of Economics and Statistics, 51, 239–46.
-<a name="XsummersWolf2"></a>
+
    Summers, Lawrence H. (2011): “Larry Summers and Martin Wolf on New
 Economic Thinking,” Financial Times interview,
 [http://larrysummers.com/commentary/speeches/brenton-woods-speech/](http://larrysummers.com/commentary/speeches/brenton-woods-speech/).
