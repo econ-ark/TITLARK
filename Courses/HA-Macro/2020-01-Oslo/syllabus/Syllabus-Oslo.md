@@ -264,7 +264,7 @@ References:
    reiter, michael (2009): “Solving heterogeneous-agent models by projection and perturbation,” Journal of Economic Dynamics and Control, 33(3), 649–665.
 
    samuelson, paul a. (1969): “Lifetime Portfolio Selection by Dynamic Stochastic Programming,” Review of Economics and Statistics, 51, 239–46.
-<a><name="XsummersWolf2"></a>
+<a><a name="XsummersWolf2"></a>
    summers, lawrence h. (2011): “Larry Summers and Martin Wolf on New Economic Thinking,” Financial Times interview, [http://larrysummers.com/commentary/speeches/brenton-woods-speech/](http://larrysummers.com/commentary/speeches/brenton-woods-speech/).
 
    wolf, christian (2019): “The Missing Intercept: A Sufficient Statistics Approach to General Equilibrium Effects,” Slides Presented at NBER ‘Micro to Macro’ Working Group.
