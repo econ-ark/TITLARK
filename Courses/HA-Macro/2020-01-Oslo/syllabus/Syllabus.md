@@ -355,117 +355,117 @@ References:
 
 ### References
 
-   Ahn, SeHyoun, Greg Kaplan, Benjamin Moll, Thomas Winberry, and
-Christian Wolf (2017): “When Inequality Matters for Macro and Macro
+   ahn, sehyoun, greg kaplan, benjamin moll, thomas winberry, and
+christian wolf (2017): “When Inequality Matters for Macro and Macro
 Matters for Inequality,” NBER Macroeconomics Annual, 32.
 
-   Aiyagari, S. Rao (1994): “Uninsured Idiosyncratic Risk and Aggregate
+   aiyagari, s. rao (1994): “Uninsured Idiosyncratic Risk and Aggregate
 Saving,” Quarterly Journal of Economics, 109, 659–684.
 
-   Auclert, Adrien (2019): “Monetary policy and the redistribution
+   auclert, adrien (2019): “Monetary policy and the redistribution
 channel,” American Economic Review, 109(6), 2333–67,
 <https://pubs.aeaweb.org/doi/pdfplus/10.1257/aer.20160137>.
 
-   Bayer, Christian, and Ralph Luetticke (2018): “Solving Heterogeneous
+   bayer, christian, and ralph luetticke (2018): “Solving Heterogeneous
 Agent Models In Discrete Time With Many Idiosyncratic States By
 Perturbation Methods,” Centre for Economic Policy Research, Discussion
 Paper 13071.
 
-   Blanchard, Olivier (2016): “Do DSGE Models Have a Future?,”
+   blanchard, olivier (2016): “Do DSGE Models Have a Future?,”
 Discussion paper, Petersen Institute for International Economics,
 Available at <https://piie.com/system/files/documents/pb16-11.pdf>.
 
-   Boppart, Timo, Per Krusell, and Kurt Mitman (2018): “Exploiting MIT
+   boppart, timo, per krusell, and kurt mitman (2018): “Exploiting MIT
 Shocks in Heterogeneous-Agent Economies: The Impulse Response as a
 Numerical Derivative,” Journal of Economic Dynamics and Control, 89(C),
 68–92.
 
-   Carroll, Christopher D. (2001): “Death to the Log-Linearized
+   carroll, christopher d. (2001): “Death to the Log-Linearized
 Consumption Euler Equation! (And Very Poor Health to the Second-Order
 Approximation),” Advances in Macroeconomics, 1(1), Article 6,
 [http://econ.jhu.edu/people/ccarroll/death.pdf](http://econ.jhu.edu/people/ccarroll/death.pdf).
 
-   Carroll, Christopher D., and Edmund Crawley (2017): “Discussion of
+   carroll, christopher d., and edmund crawley (2017): “Discussion of
 ‘When Inequality Matters for Macro and Macro Matters for Inequality’,”
 Discussion paper, NBER.
 
-   Carroll, Christopher D., Jiri Slacalek, Kiichi Tokuoka, and
-Matthew N. White (2017): “The Distribution of Wealth and the Marginal
+   carroll, christopher d., jiri slacalek, kiichi tokuoka, and
+matthew n. white (2017): “The Distribution of Wealth and the Marginal
 Propensity to Consume,” Quantitative Economics, 8, 977–1020, At
 [http://econ.jhu.edu/people/ccarroll/papers/cstwMPC](http://econ.jhu.edu/people/ccarroll/papers/cstwMPC).
 
-   Coeure, Benoit (2013): “The relevance of household-level data for
+   coeure, benoit (2013): “The relevance of household-level data for
 monetary policy and financial stability analysis,” .
 
-   Crawley, Edmund (2019): “Intro to Monetary Policy with
+   crawley, edmund (2019): “Intro to Monetary Policy with
 Heterogeneity,” Slides Presented at JHU “Computational Methods in
 Economics”.
 
-   Crawley, Edmund, and Andreas Kuchler (2018): “Consumption
+   crawley, edmund, and andreas kuchler (2018): “Consumption
 Heterogeneity: Micro Drivers and Macro Implications,” working paper 129,
 Danmarks Nationalbank.
 
-   Crawley, Edmund, and Seungcheol Lee (2019): “Monetary Policy
+   crawley, edmund, and seungcheol lee (2019): “Monetary Policy
 Transmission with Many Agents,” Manuscript, Johns Hopkins University.
 
-   Deaton, Angus S. (1991): “Saving and Liquidity Constraints,”
+   deaton, angus s. (1991): “Saving and Liquidity Constraints,”
 Econometrica, 59, 1221–1248,
 [http://www.jstor.org/stable/2938366](http://www.jstor.org/stable/2938366).
 
-   Haldane, Andy (2016): “The Dappled World,” Discussion paper, Bank of
+   haldane, andy (2016): “The Dappled World,” Discussion paper, Bank of
 England, Available at
 <http://www.bankofengland.co.uk/publications/Pages/speeches/2016/937.aspx>.
 
-   Hubbard, R. Glenn, Jonathan S. Skinner, and Stephen P. Zeldes (1994):
+   hubbard, r. glenn, jonathan s. skinner, and stephen p. zeldes (1994):
 “The Importance of Precautionary Motives for Explaining Individual and
 Aggregate Saving,” in The Carnegie-Rochester Conference Series on Public
 Policy, ed. by Allan H. Meltzer, and Charles I. Plosser, vol. 40, pp.
 59–126.
 
-   Kaplan, Greg, Benjamin Moll, and Giovanni L. Violante (2018):
+   kaplan, greg, benjamin moll, and giovanni l. violante (2018):
 “Monetary Policy According to HANK,” American Economic Review, 108(3),
 697–743.
 
-   Kekre, Rohan, and Moritz Lenel (2019): “Redistribution, risk premia,
+   kekre, rohan, and moritz lenel (2019): “Redistribution, risk premia,
 and the macroeconomy,” Slides Presented at NBER ‘Micro to Macro’ Working
 Group.
 
-   Khan, Shujaat (2019): “Macroprudential Policies in a Heterogeneous
+   khan, shujaat (2019): “Macroprudential Policies in a Heterogeneous
 Agent Model of Housing Default,” Department of Economics, Johns Hopkins
 University.
 
-   Krueger, Dirk, Kurt Mitman, and Fabrizio Perri (2016):
+   krueger, dirk, kurt mitman, and fabrizio perri (2016):
 “Macroeconomics and Household Heterogeneity,” Handbook of
 Macroeconomics, 2, 843–921.
 
-   Krusell, Per, and Anthony A. Smith (1998): “Income and Wealth
+   krusell, per, and anthony a. smith (1998): “Income and Wealth
 Heterogeneity in the Macroeconomy,” Journal of Political Economy,
 106(5), 867–896.
 
-   Merton, Robert C. (1969): “Lifetime Portfolio Selection under
+   merton, robert c. (1969): “Lifetime Portfolio Selection under
 Uncertainty: The Continuous Time Case,” Review of Economics and
 Statistics, 51, 247–257.
 
-   Reiter, Michael (2009): “Solving heterogeneous-agent models by
+   reiter, michael (2009): “Solving heterogeneous-agent models by
 projection and perturbation,” Journal of Economic Dynamics and Control,
 33(3), 649–665,
 <https://www.sciencedirect.com/science/article/pii/S0165188908001528>.
 
-   Samuelson, Paul A. (1969): “Lifetime Portfolio Selection by Dynamic
+   samuelson, paul a. (1969): “Lifetime Portfolio Selection by Dynamic
 Stochastic Programming,” Review of Economics and Statistics, 51, 239–46.
 
-   Summers, Lawrence H. (2011): “Larry Summers and Martin Wolf on New
+   summers, lawrence h. (2011): “Larry Summers and Martin Wolf on New
 Economic Thinking,” Financial Times interview,
 [http://larrysummers.com/commentary/speeches/brenton-woods-speech/](http://larrysummers.com/commentary/speeches/brenton-woods-speech/).
 
-   Wolf, Christian (2019): “The Missing Intercept: A Sufficient
+   wolf, christian (2019): “The Missing Intercept: A Sufficient
 Statistics Approach to General Equilibrium Effects,” Slides Presented at
 NBER ‘Micro to Macro’ Working Group.
 
-   Yellen, Janet (2016): “Macroeconomic Research After the Crisis,”
+   yellen, janet (2016): “Macroeconomic Research After the Crisis,”
 Available at
 <https://www.federalreserve.gov/newsevents/speech/yellen20161014a.htm>.
 
-   Zeldes, Stephen P. (1989): “Optimal Consumption with Stochastic
+   zeldes, stephen p. (1989): “Optimal Consumption with Stochastic
 Income: Deviations from Certainty Equivalence,” Quarterly Journal of
 Economics, 104(2), 275–298.
