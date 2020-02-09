@@ -16,8 +16,9 @@ Your assignment is:
 1. In TITLARK/notebooks you will find `TractableBufferStock-Interactive-Problems.ipynb`
    1. Make a branch called '[your-github-username]TractableSolution'
 	  * if I were a student: `git checkout -b ccarrollATjhueconTractableSolution`
-   1. In the branch, make a copy:
+   1. In the branch, make a copy and make it writeable:
       * `cp TractableBufferStock-Interactive-Problems.ipynb TractableBufferStock-Interactive-Solutions.ipynb`
+	  * `chmod u+w TractableBufferStock-Interactive-Solutions.ipynb`
    1. Open the notebook
       * `jupyter notebook` from the command line in the notebooks directory
    1.  Read through this notebook, and solve the problem at the end
