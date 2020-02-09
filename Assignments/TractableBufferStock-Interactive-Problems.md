@@ -23,4 +23,4 @@ Your assignment is:
    1.  Read through this notebook, and solve the problem at the end
 1. When you have finished solving the problem:
    1. "push" your local copy to the your "remote" version of the fork on GitHub.com
-   1. From your GitHub.com account, issue a "pull request" 
+   1. From your GitHub.com account, issue a "pull request" to the upstream master
