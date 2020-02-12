@@ -199,11 +199,11 @@ Notes:
     Choice](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/C-With-Optimal-Portfolio/):
     ![σr ↑ ⇒ ↑ ](syllabus-Oslo12x.svg) in ![C ](syllabus-Oslo13x.svg)
     (!)
-    -   You reduce your exposure to risk ![ς ↓ ](syllabus-Oslo14x.svg)
+    -   You reduce your exposure to risk
     -   Total eventual portfolio risk is less than before ![σr ↑
-        ](syllabus-Oslo15x.svg)
-    -   Precautionary saving ![↓ ](syllabus-Oslo16x.svg)
-    -   Net result: ![σ ↑⇒ C ↑ r ](syllabus-Oslo17x.svg)
+        ](syllabus-Oslo14x.svg)
+    -   Precautionary saving ![↓ ](syllabus-Oslo15x.svg)
+    -   Net result: ![σ ↑⇒ C ↑ r ](syllabus-Oslo16x.svg)
 -   [ConsPortfolioModel](https://econ-ark.org/materials/ConsPortfolioModelDoc)
     -   “Stockholding Puzzle” [Bertaut and
         Haliassos](#Xbertaut&haliassos:portfolio) ([1997](#Xbertaut&haliassos:portfolio))
@@ -217,7 +217,7 @@ Notes:
 
 -   [Consumption Models with Habit
     Formation](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/):
-    -   ![Δ logct+1 = (1 − α)þr + αΔ log ct ](syllabus-Oslo18x.svg)
+    -   ![Δ logct+1 = (1 − α)þr + αΔ log ct ](syllabus-Oslo17x.svg)
 
 ### 5  Computational Tools
 
