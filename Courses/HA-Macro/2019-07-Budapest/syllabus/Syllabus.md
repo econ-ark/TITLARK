@@ -131,7 +131,7 @@ Notebook: [A Gentle Introduction to Buffer Stock Saving](https://mybinder.org/v2
 2.  Liquidity Constraints and Precautionary Saving
 3.  Impatience and Target Wealth
 
-Notebook: [BufferStockTheory Problems](https://mybinder.org/v2/gh/econ-ark/REMARK/master?filepath=REMARKs/BufferStockTheory/BufferStockTheory-Problems.ipynb)
+Notebook: [BufferStockTheory Problems](https://econ-ark.org/materials/BufferStockTheory-Problems.ipynb)
 
 #### 5.3  ‘Serious’ Wealth Inequality
 
