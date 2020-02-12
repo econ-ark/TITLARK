@@ -225,6 +225,10 @@ Notes:
 
 -   [Intro-To-Econ-ARK](https://github.com/econ-ark/PARK/blob/master/Intro-To-Econ-ARK-Overlay.pdf)
 
+#### 5.2  Intro to Heterogeneous Agents Resources and Toolkit (HARK)
+
+-   [Intro-To-HARK](https://github.com/econ-ark/PARK/blob/master/Intro-To-HARK-Overlay.pdf)
+
 ### 6  Hands-On Introduction
 
 Here we will explain how to begin using the
