@@ -172,7 +172,7 @@ Notes:
 -   Notes:    [A Tractable Model of Buffer Stock
     Saving](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/)
 -   Notebook: [Interactive
-    Demo](https://econ-ark.org/materials/TractableBufferStockQuickDemo)
+    Demo](https://econ-ark.org/materials/TractableBufferStock-Interactive)
 
 Readings
 
@@ -191,6 +191,7 @@ Notes:
     Assets](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/CRRA-RateRisk/)
 -   [Consumption With Portfolio
     Choice](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/C-With-Optimal-Portfolio/)
+-   [ConsPortfolioModel](https://econ-ark.org/materials/ConsPortfolioModelDoc)
 
 Origins: [Merton](#Xmerton:restat) ([1969](#Xmerton:restat)),
 [Samuelson](#Xsamuelson:portfolio) ([1969](#Xsamuelson:portfolio))
