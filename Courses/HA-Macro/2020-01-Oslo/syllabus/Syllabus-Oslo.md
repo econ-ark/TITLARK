@@ -374,6 +374,15 @@ References:
     Effects](https://github.com/llorracc/resources/blob/master/Slides/wolfGE-invariance.pdf),
     [Wolf](#XwolfGEInvariance) ([2019](#XwolfGEInvariance))
 
+### 7  Take Home Exam
+
+The exam in this class will be a take-home exam in which the students
+will be expected to use the modeling techniques they have learned to
+make a meaningful substantive extension of one of the models they have
+learned in class. Their code will be tested to determine whether it
+works, and then judged on the basis of how well the extension has been
+done.
+
 ### References
 
    Ahn, SeHyoun, Greg Kaplan, Benjamin Moll, Thomas Winberry, and
