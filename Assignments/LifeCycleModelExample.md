@@ -5,8 +5,8 @@ Your assignment is:
 
 1. Log into your GitHub account, navigate to https://github.com/econ-ark, and make a fork of the QuARK repo
 1. Clone your fork to your local machine:
-   * `cd ~/GitHub/econ-ark ; git clone https://github.com/econ-ark/QuARK`
-1. (If you already had a local clone of a fork of the QuARK repo, you will need to update it from the upstream QuARK)
+   * `cd ~/GitHub/[your-GitHub-ID] ; git clone https://github.com/econ-ark/QuARK`
+1. (If you already had a local clone of a fork of the QuARK repo, perhaps in `~/GitHub/econ-ark-forks` you might want to update it (though you should use the clone of your own fork for the assignment; updating in `econ-ark-forks` is purely so that you can have the original version as a reference)
    * Google should tell you the commands you need to use
    * The term for the original repo, is the "upstream" repo
    * If you can't figure out how to do this, you can
