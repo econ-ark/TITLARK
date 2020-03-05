@@ -19,9 +19,10 @@ Your assignment is:
    * Please do NOT make a new fork without first deleting your original fork
       * GitHub keeps track of all the forks
 	  * It becomes hopelessly confusing if one person has several forks
-1. In QuARK/notebooks you will find `Micro-And-Macro-Implications-Of-Very-Impatient-Households-Problems.ipynb`
-   1. Make a branch called '[your-github-username]'
-	  * if I were a student: `git checkout -b ccarrollATjhuecon`
+1. In your local copy of your fork of the QuARK, you will find in the notebooks directory `Micro-And-Macro-Implications-Of-Very-Impatient-Households-Problems.ipynb`
+	  * `cd ~/GitHub/[your-GitHub-ID]/QuARK/notebooks`
+   1. Make a branch called '[your-github-username]Solutions'
+	  * if I were a student: `git checkout -b ccarrollATjhueconSolutions`
    1. In the branch, make a copy and make it writeable:
       * `cp Micro-And-Macro-Implications-Of-Very-Impatient-Households-Problems.ipynb Micro-And-Macro-Implications-Of-Very-Impatient-Households-Problems-And-Solutions.ipynb`
 	  * `chmod u+w Micro-And-Macro-Implications-Of-Very-Impatient-Households-Problems-And-Solutions.ipynb`
