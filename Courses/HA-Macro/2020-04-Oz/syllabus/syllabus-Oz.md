@@ -174,10 +174,6 @@ Notes:
 -   Notebook: [Interactive
     Demo](https://econ-ark.org/materials/TractableBufferStock-Interactive)
 
-Readings
-
--   [Carroll](#Xcarroll:death) ([2001](#Xcarroll:death))
-
 ##### 4.1.3  Rate-Of-Return Uncertainty without Labor Income
 
 Under CRRA utility, without labor income risk:
@@ -189,20 +185,20 @@ Notes:
 
 -   [Consumption out of Risky
     Assets](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/CRRA-RateRisk/)
-    -   (Unavoidably) Riskier Returns ![⇒ ](syllabus-Oz7x.svg) lower ![C
-        ](syllabus-Oz8x.svg) (if ![ρ \> 1 ](syllabus-Oz9x.svg))
+    -   (Unavoidably) Riskier Returns ![⇒ ](syllabus-Oz6x.svg) lower ![C
+        ](syllabus-Oz7x.svg) (if ![ρ \> 1 ](syllabus-Oz8x.svg))
 -   [Portfolio Choice with CRRA
     Utility](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/CRRA-Portfolio/)
-    -   Greater financial risk ![⇒ ](syllabus-Oz10x.svg) Smaller
-        Portfolio Share (![ς ↓ ](syllabus-Oz11x.svg))
+    -   Greater financial risk ![⇒ ](syllabus-Oz9x.svg) Smaller
+        Portfolio Share (![ς ↓ ](syllabus-Oz10x.svg))
 -   [Consumption With Portfolio
     Choice](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/C-With-Optimal-Portfolio/):
-    ![σr ↑ ⇒ ↑ ](syllabus-Oz12x.svg) in ![C ](syllabus-Oz13x.svg) (!)
+    ![σr ↑ ⇒ ↑ ](syllabus-Oz11x.svg) in ![C ](syllabus-Oz12x.svg) (!)
     -   You reduce your exposure to risk
     -   Total eventual portfolio risk is less than before ![σr ↑
-        ](syllabus-Oz14x.svg)
-    -   Precautionary saving ![↓ ](syllabus-Oz15x.svg)
-    -   Net result: ![σ ↑⇒ C ↑ r ](syllabus-Oz16x.svg)
+        ](syllabus-Oz13x.svg)
+    -   Precautionary saving ![↓ ](syllabus-Oz14x.svg)
+    -   Net result: ![σr ↑⇒ C ↑ ](syllabus-Oz15x.svg)
 -   [ConsPortfolioModel](https://econ-ark.org/materials/ConsPortfolioModelDoc)
     -   “Stockholding Puzzle” [Bertaut and
         Haliassos](#Xbertaut&haliassos:portfolio) ([1997](#Xbertaut&haliassos:portfolio))
@@ -216,7 +212,7 @@ Notes:
 
 -   [Consumption Models with Habit
     Formation](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/):
-    -   ![Δ logct+1 = (1 − α)þr + αΔ log ct ](syllabus-Oz17x.svg)
+    -   ![Δ logct+1 = (1 − α)þr + αΔ log ct ](syllabus-Oz16x.svg)
 
 ### 5  Computational Tools
 
@@ -412,11 +408,6 @@ Available at <https://piie.com/system/files/documents/pb16-11.pdf>.
 Shocks in Heterogeneous-Agent Economies: The Impulse Response as a
 Numerical Derivative,” Journal of Economic Dynamics and Control, 89(C),
 68–92.
-
-   Carroll, Christopher D. (2001): “Death to the Log-Linearized
-Consumption Euler Equation! (And Very Poor Health to the Second-Order
-Approximation),” Advances in Macroeconomics, 1(1), Article 6,
-[http://econ.jhu.edu/people/ccarroll/death.pdf](http://econ.jhu.edu/people/ccarroll/death.pdf).
 
    Carroll, Christopher D., and Edmund Crawley (2017): “Discussion of
 ‘When Inequality Matters for Macro and Macro Matters for Inequality’,”
