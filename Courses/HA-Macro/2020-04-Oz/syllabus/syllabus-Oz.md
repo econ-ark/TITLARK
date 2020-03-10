@@ -7,11 +7,8 @@ Hands-On Heterogeneous Agent Macroeconomics Using the
 
 [Christopher D. Carroll](http://www.econ2.jhu.edu/people/ccarroll)
 
-Syllabus for Hands-On Heterogeneous Agent Macroeconomics
-
-BI Business School/University of Oslo
-
-Spring, 2020
+(!! There is no fragment ==\> SyllabusOz \<== maybe run LaTeX on source
+file again?)
 
 Because Representative Agent (‘RA’) models were not useful for
 understanding much of what happened in the Great Recession, policymakers
