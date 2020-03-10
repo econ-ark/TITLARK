@@ -9,11 +9,6 @@
 .ectt-1200{ font-family: monospace;}
 .ectt-1200{ font-family: monospace;}
 .ectt-1200{ font-family: monospace;}
-.cmr-8{font-size:66%;}
-.cmmi-12{font-style: italic;}
-.cmmi-8{font-size:66%;font-style: italic;}
-.cmbx-8{font-size:66%; font-weight: bold;}
-.cmss-8{font-size:66%;  font-family: sans-serif;}
 .small-caps{font-variant: small-caps; }
 p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
@@ -88,18 +83,15 @@ table.equation {width:100%;}
 .equation td{text-align:center; }
 td.equation { margin-top:1em; margin-bottom:1em; } 
 td.equation-label { width:5%; text-align:center; }
-td.eqnarray4 { width:5%; white-space: normal; }
-td.eqnarray2 { width:5%; }
-table.eqnarray-star, table.eqnarray {width:100%;}
-div.eqnarray{text-align:center;}
-div.array {text-align:center;}
+div.pic-eqnarray {text-align:center;}
+div.pic-eqnarray-star {text-align:center;}
 div.pmatrix {text-align:center;}
 table.pmatrix {width:100%;}
+div.pic-array {text-align:center;}
 span.pmatrix img{vertical-align:middle;}
 div.pmatrix {text-align:center;}
 table.pmatrix {width:100%;}
 span.bar-css {text-decoration:overline;}
-table.tabular{border-collapse: collapse; border-spacing: 0;}
 img.cdots{vertical-align:middle;}
 .partToc a, .partToc, .likepartToc a, .likepartToc {line-height: 200%; font-weight:bold; font-size:110%;}
 .index-item, .index-subitem, .index-subsubitem {display:block}
@@ -145,7 +137,6 @@ td.td10{ padding-left:5pt; padding-right:0pt; }
 td.td11{ padding-left:5pt; padding-right:5pt; }
 table[rules] {border-left:solid black 0.4pt; border-right:solid black 0.4pt; }
 .hline hr, .cline hr{ height : 1px; margin:0px; }
-div.array {text-align:center;}
 table.boxedverbatim {width:100%;}
  pre.boxedverbatim{border:solid 1px; padding-right:1em;} 
 table.boxedverbatim {text-align:center;}
