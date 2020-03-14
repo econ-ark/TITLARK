@@ -15,12 +15,12 @@ Your assignment is:
    * Please do NOT make a new fork without first deleting your original fork
       * GitHub keeps track of all the forks
 	  * It becomes hopelessly confusing if one person has several forks
-1. In QuARK/notebooks you will find `LifeCycleModelExample-Problems.ipynb`
+1. In QuARK/notebooks you will find `LifeCycleModelTheoryVsData-Problems.ipynb`
    1. Make a branch called '[your-github-username]'
 	  * if I were a student: `git checkout -b ccarrollATjhuecon`
    1. In the branch, make a copy and make it writeable:
-      * `cp LifeCycleModelExample-Problems.ipynb LifeCycleModelExample-Problems-And-Solutions.ipynb`
-	  * `chmod u+w LifeCycleModelExample-Problems-And-Solutions.ipynb`
+      * `cp LifeCycleModelTheoryVsData-Problems.ipynb LifeCycleModelTheoryVsData-Problems-And-Solutions.ipynb`
+	  * `chmod u+w LifeCycleModelTheoryVsData-Problems-And-Solutions.ipynb`
    1. Open the notebook
       * `jupyter notebook` from the command line in the notebooks directory
    1.  Read through this notebook, and solve the multi-part problem '"Luck" and Saving' at the end
