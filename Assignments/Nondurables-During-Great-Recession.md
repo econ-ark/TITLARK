@@ -19,13 +19,13 @@ Your assignment is:
    * Please do NOT make a new fork without first deleting your original fork
       * GitHub keeps track of all the forks
 	  * It becomes hopelessly confusing if one person has several forks
-1. In your local copy of your fork of the QuARK, you will find in the notebooks directory `Nondurables-During-Great-Recession.ipynb`
+1. In your local copy of your fork of the QuARK, you will find in the notebooks directory `Nondurables-During-Great-Recession-Problems.ipynb`
 	  * `cd ~/GitHub/[your-GitHub-ID]/QuARK/notebooks`
    1. Make a branch called '[your-github-username]Solutions'
 	  * if I were a student: `git checkout -b ccarrollATjhueconSolutions`
    1. In the branch, make a copy and make it writeable:
-      * `cp Nondurables-During-Great-Recession.ipynb Nondurables-During-Great-Recession-And-Solutions.ipynb`
-	  * `chmod u+w Nondurables-During-Great-Recession-And-Solutions.ipynb`
+      * `cp Nondurables-During-Great-Recession-Problems.ipynb Nondurables-During-Great-Recession-Problems-And-Solutions.ipynb`
+	  * `chmod u+w Nondurables-During-Great-Recession-Problems-And-Solutions.ipynb`
    1. Open the notebook
       * `jupyter notebook` from the command line in the notebooks directory
    1.  Read through this notebook, and create (or fill in) "SOLUTION" cells after the "PROBLEM" cells
