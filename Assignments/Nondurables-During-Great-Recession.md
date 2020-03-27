@@ -4,7 +4,7 @@ This assignment asks you to solve some problems posed in a notebook in the "QuAR
 
 Your assignment is:
 
-# Make A Fork of the QuARK Repo 
+## Make A Fork of the QuARK Repo 
 
 You can skip the instructions below if you already have a fork of the QuARK
 
