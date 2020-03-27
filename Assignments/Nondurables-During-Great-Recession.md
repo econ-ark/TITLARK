@@ -33,8 +33,9 @@ In your local copy of your fork of the QuARK, you will find in the notebooks dir
 	  * if it already exists: `git checkout ccarrollATjhueconSolutions`
 
 ## Copy the notebook and make it writeable:
-   1. * `cp Nondurables-During-Great-Recession-Problems.ipynb Nondurables-During-Great-Recession-Problems-And-Solutions.ipynb`
-	  * `chmod u+w Nondurables-During-Great-Recession-Problems-And-Solutions.ipynb`
+   1. Make your solutions notebook
+   * `cp Nondurables-During-Great-Recession-Problems.ipynb Nondurables-During-Great-Recession-Problems-And-Solutions.ipynb`
+   * `chmod u+w Nondurables-During-Great-Recession-Problems-And-Solutions.ipynb`
    1. Open the notebook
       * `jupyter notebook` from the command line in the notebooks directory
    1.  Read through the notebook, and create (or fill in) "SOLUTION" cells after the "PROBLEM" cells
