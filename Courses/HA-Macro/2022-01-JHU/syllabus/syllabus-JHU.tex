@@ -1,0 +1,97 @@
+\input{./econtexPaths.tex}\documentclass{\econtex}\newcommand{\texname}{Syllabus} \usepackage{\econtexSetup}\usepackage{\econtexShortcuts} \reversemarginpar
+
+\usepackage{listings}\lstset{basicstyle=\ttfamily}
+
+\input{syllabus-preamble}
+
+% Run script that creates two versions of the syllabus (for Budapest and JHU)
+%\immediate{\write18{../syllabus-prep-Bud-and-JHU.sh}}
+%\usepackage{natbib}\bibliographystyle{plainnat} % Need to use natbib and plainnat to prevent smallcaps which pandoc -> markdown does not like
+\begin{document}\bibliographystyle{\econtexBibStyle}
+
+\newboolean{margtime}
+\setboolean{margtime}{true}
+\ifdvi
+\setboolean{margtime}{false}
+\fi
+
+
+\input{./syllabus-items-make.vrb}
+\input{./syllabus-printvrb-JHU.vrb}
+
+  \thispagestyle{empty}
+
+  \pagestyle{plain}
+  \thispagestyle{empty}
+
+  \begin{center}
+
+    \printfrag{HandsOnHeterogeneousAgentMacroeconomics}
+    
+    \printfrag{ChristopherDCarroll}
+    
+    \printfrag{SyllabusJHU}
+
+  \end{center}
+
+  \normalsize
+
+\printfrag{CourseDescription}
+
+\pagebreak
+\section{Preliminaries}
+
+
+\providecommand{\sectype}{\section}%\section{Preliminaries}
+\printfrag{Preliminaries}
+
+\section{Motivation}\printfrag{MotivationforHAModeling}
+
+\section{Micro Models}
+\subsection{Micro Consumption Theory Refresher}
+
+The course will assume that students are familiar with standard quantitative tools for solving RA models, like \texttt{DYNARE}.
+The bulk of the ``hands-on'' part of the course will therefore involve learning and using tools for solving micro problems with `serious' microfoundations.
+
+
+\renewcommand{\sectype}{\subsubsection}
+
+\printfrag{TheInfiniteHorizonPerfectForesightModel}
+\printfrag{ConsumptionWithLaborIncomeUncertainty}
+\printfrag{TheSpecialCaseofRateOfReturnUncertainty}
+\printfrag{Habits}
+
+\section{Computational Tools}
+\printfrag{VisionfortheEconARKProject}
+
+\section{Hands-On Introduction}
+\renewcommand{\sectype}{\section}
+%\DayLectMins{1}{3}{30}
+\printfrag{HandsOnIntroduction}
+
+%\DayLectMins{2}{1}{60}
+\renewcommand{\sectype}{\subsection}
+\printfrag{AGentleIntroduction}
+
+\renewcommand{\sectype}{\subsubsection}
+\printfrag{PerfectForesight}
+\printfrag{AddingSeriousIncomeUncertainty}
+
+\renewcommand{\sectype}{\subsection}
+
+\printfrag{LiquidityPrecautionarySavingandImpatience}
+\printfrag{SeriousWealthInequality}
+\printfrag{MatchingTheDistribution}
+
+\renewcommand{\sectype}{\subsection}
+
+\printfrag{RealHAModels}
+\printfrag{KrusellSmith}
+\printfrag{MicroSSthenMacroFluct}
+\printfrag{ExplainingBayerLuetticke}
+\printfrag{OtherLiterature}
+
+\pagebreak
+\bibliography{economics}
+
+\end{document}
