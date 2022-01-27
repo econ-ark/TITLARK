@@ -9,7 +9,7 @@ Hands-On Heterogeneous Agent Macroeconomics Using the
 
 Syllabus for Hands-On Heterogeneous Agent Macroeconomics
 
-Australian National University
+Australian National University℘ 
 
 April, 2020
 

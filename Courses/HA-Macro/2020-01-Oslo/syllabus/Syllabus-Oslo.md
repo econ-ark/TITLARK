@@ -1,5 +1,9 @@
 (Warning: Internal links -- say, to references -- [do not work](https://tex.stackexchange.com/questions/264227/pandoc-breaks-hyperlinks-in-latex-file-conversion) here)
+ψθ
+Γ δ
+ρ β α
 
+𝔼
 (They _do_ work in [the html version](https://econ-ark.github.io/TITLARK/Courses/HA-Macro/2020-01-Oslo/syllabus/Syllabus-Oslo.html))
 
 Hands-On Heterogeneous Agent Macroeconomics Using the
