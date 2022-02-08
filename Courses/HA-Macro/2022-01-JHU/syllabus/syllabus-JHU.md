@@ -93,7 +93,7 @@ Readings:
 -   [Carroll and
     Crawley](#XakmwwInequality-Discuss) ([2017](#XakmwwInequality-Discuss)),
     [Sections 1, 2, and
-    4](http://econ.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/)
+    4](https://www.econ2.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/)
     -   This discussion of that paper puts the relationship of HA to RA
         models in context.
 
@@ -113,14 +113,14 @@ Kinds of Impatience: Absolute, Return, and Growth
 Notes:
 
 -   [Consumption Under Perfect Foresight and CRRA
-    Utility](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/PerfForesightCRRA/)
+    Utility](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/PerfForesightCRRA/)
 -   [The Certainty Equivalent Consumption
-    Function](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/ConsumptionFunction/)
+    Function](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/ConsumptionFunction/)
 
 ##### 3.1.2  Consumption With Labor Income Uncertainty
 
 -   Notes:    [A Tractable Model of Buffer Stock
-    Saving](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/)
+    Saving](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/)
 -   Notebook: [Interactive
     Demo](https://econ-ark.org/materials/TractableBufferStock-Interactive)
 
@@ -134,15 +134,15 @@ Under CRRA utility, without labor income risk:
 Notes:
 
 -   [Consumption out of Risky
-    Assets](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/CRRA-RateRisk/)
+    Assets](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/CRRA-RateRisk/)
     -   (Unavoidably) Riskier Returns ![⇒ ](syllabus-JHU2x.svg) lower
         ![C ](syllabus-JHU3x.svg) (if ![ρ \> 1 ](syllabus-JHU4x.svg))
 -   [Portfolio Choice with CRRA
-    Utility](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/CRRA-Portfolio/)
+    Utility](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/CRRA-Portfolio/)
     -   Greater financial risk ![⇒ ](syllabus-JHU5x.svg) Smaller
         Portfolio Share (![ς ↓ ](syllabus-JHU6x.svg))
 -   [Consumption With Portfolio
-    Choice](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/C-With-Optimal-Portfolio/):
+    Choice](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/C-With-Optimal-Portfolio/):
     ![σr ↑ ⇒ ↑ ](syllabus-JHU7x.svg) in ![C ](syllabus-JHU8x.svg) (!)
     -   You reduce your exposure to risk
     -   Total eventual portfolio risk is less than before ![σr ↑
@@ -161,7 +161,7 @@ Origins: [Merton](#Xmerton:restat) ([1969](#Xmerton:restat)),
 Notes:
 
 -   [Consumption Models with Habit
-    Formation](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/):
+    Formation](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/):
     -   ![Δ logct+1 = (1 − α)þr + αΔ log ct ](syllabus-JHU12x.svg)
 
 ### 4  Computational Tools

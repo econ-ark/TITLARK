@@ -92,7 +92,7 @@ MyTBStype = TractableConsumerType(**TBS_dictionary)
 # \\ \left(\frac{(R \beta (1-\mho))^{1/\rho}}{G (1-\mho)}\right)  &<  1
 # \\ \left(\frac{(R \beta)^{1/\rho}}{G} (1-\mho)^{-\rho}\right)  &<  1
 # \end{align}
-# and recall (from [PerfForesightCRRA](http://econ.jhu.edu/people/ccarroll/public/lecturenotes/consumption/PerfForesightCRRA/)) that the perfect foresight 'Growth Impatience Factor' is 
+# and recall (from [PerfForesightCRRA](https://www.econ2.jhu.edu/people/ccarroll/public/lecturenotes/consumption/PerfForesightCRRA/)) that the perfect foresight 'Growth Impatience Factor' is 
 # \begin{align}\label{eq:PFGIC}
 # \left(\frac{(R \beta)^{1/\rho}}{G}\right)  &<  1
 # \end{align}

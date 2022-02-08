@@ -57,7 +57,7 @@ Readings:
 
 -   [Ahn et al](http://www.princeton.edu/~moll/WIMM.pdf) ([2017](#XakmwwInequality)), Introduction, Conclusion
     -   Compact and well written discussion of the state and progress of HA macro.
--   [Carroll and Crawley](#XakmwwInequality-Discuss) ([2017](#XakmwwInequality-Discuss)), [Sections 1, 2, and 4](http://econ.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/)
+-   [Carroll and Crawley](#XakmwwInequality-Discuss) ([2017](#XakmwwInequality-Discuss)), [Sections 1, 2, and 4](https://www.econ2.jhu.edu/people/ccarroll/discuss/2017-04_NBER_Macro-Annual/akmwwInequality/)
     -   This discussion of that paper puts the relationship of HA to RA models in context.
 
 ### 3  Micro Models
@@ -72,12 +72,12 @@ Absolute, Return, and Growth Impatience
 
 Notes:
 
--   [Consumption Under Perfect Foresight and CRRA Utility](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/PerfForesightCRRA/)
--   [The Certainty Equivalent Consumption Function](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/ConsumptionFunction/)
+-   [Consumption Under Perfect Foresight and CRRA Utility](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/PerfForesightCRRA/)
+-   [The Certainty Equivalent Consumption Function](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/ConsumptionFunction/)
 
 ##### 3.1.2  Consumption With Labor Income Uncertainty
 
--   Notes:    [A Tractable Model of Buffer Stock Saving](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/)
+-   Notes:    [A Tractable Model of Buffer Stock Saving](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/TractableBufferStock/)
 -   Notebook: [Interactive Demo](https://mybinder.org/v2/gh/econ-ark/DemARK/master?filepath=notebooks/TractableBufferStockQuickDemo.ipynb)
 
 Readings
@@ -91,9 +91,9 @@ Under CRRA utility, without labor income risk:
 1.  The consumption function is linear
 2.  An increase in risk reduces consumption and the MPC
 
-Notes: [Consumption out of Risky Assets](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/CRRA-RateRisk/)
+Notes: [Consumption out of Risky Assets](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/CRRA-RateRisk/)
 
-[Consumption With Portfolio Choice](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/C-With-Optimal-Portfolio/)
+[Consumption With Portfolio Choice](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/AssetPricing/C-With-Optimal-Portfolio/)
 
 Origins: [Merton](#Xmerton:restat) ([1969](#Xmerton:restat)), [Samuelson](#Xsamuelson:portfolio) ([1969](#Xsamuelson:portfolio))
 
@@ -101,7 +101,7 @@ Origins: [Merton](#Xmerton:restat) ([1969](#Xmerton:restat)), [Samuelson](#Xsam
 
 Notes:
 
--   [Consumption Models with Habit Formation](http://econ.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/)
+-   [Consumption Models with Habit Formation](https://www.econ2.jhu.edu/people/ccarroll/public/LectureNotes/Consumption/Habits/)
 
 ### 4  Computational Tools
 
@@ -202,11 +202,11 @@ References:
 
    boppart, timo, per krusell, and kurt mitman (2018): “Exploiting MIT Shocks in Heterogeneous-Agent Economies: The Impulse Response as a Numerical Derivative,” Journal of Economic Dynamics and Control, 89(C), 68–92.
 
-   carroll, christopher d. (2001): “Death to the Log-Linearized Consumption Euler Equation! (And Very Poor Health to the Second-Order Approximation),” Advances in Macroeconomics, 1(1), Article 6, [http://econ.jhu.edu/people/ccarroll/death.pdf](http://econ.jhu.edu/people/ccarroll/death.pdf).
+   carroll, christopher d. (2001): “Death to the Log-Linearized Consumption Euler Equation! (And Very Poor Health to the Second-Order Approximation),” Advances in Macroeconomics, 1(1), Article 6, [https://www.econ2.jhu.edu/people/ccarroll/death.pdf](https://www.econ2.jhu.edu/people/ccarroll/death.pdf).
 
    carroll, christopher d., and edmund crawley (2017): “Discussion of ‘When Inequality Matters for Macro and Macro Matters for Inequality’,” Discussion paper, NBER.
 
-   carroll, christopher d., jiri slacalek, kiichi tokuoka, and matthew n. white (2017): “The Distribution of Wealth and the Marginal Propensity to Consume,” Quantitative Economics, 8, 977–1020, At [http://econ.jhu.edu/people/ccarroll/papers/cstwMPC](http://econ.jhu.edu/people/ccarroll/papers/cstwMPC).
+   carroll, christopher d., jiri slacalek, kiichi tokuoka, and matthew n. white (2017): “The Distribution of Wealth and the Marginal Propensity to Consume,” Quantitative Economics, 8, 977–1020, At [https://www.econ2.jhu.edu/people/ccarroll/papers/cstwMPC](https://www.econ2.jhu.edu/people/ccarroll/papers/cstwMPC).
 
    coeure, benoit (2013): “The relevance of household-level data for monetary policy and financial stability analysis,” .
 
