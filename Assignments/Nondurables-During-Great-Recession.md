@@ -37,7 +37,7 @@ In your local copy of your fork of the QuARK, you will find in the notebooks dir
    * `cp Nondurables-During-Great-Recession-Problems.ipynb Nondurables-During-Great-Recession-Problems-And-Solutions.ipynb`
    * `chmod u+w Nondurables-During-Great-Recession-Problems-And-Solutions.ipynb`
    1. Open the notebook
-      * `jupyter notebook` from the command line in the notebooks directory
+      * `jupyter lab` from the command line in the notebooks directory
    1.  Read through the notebook, and create (or fill in) "SOLUTION" cells after the "PROBLEM" cells
 
 ## Turn In the Assignment

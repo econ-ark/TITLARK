@@ -5,12 +5,12 @@
 Your assignment is:
 
 1. Update your local fork of the TITLARK repo 
-   * Google should tell you the commands you need to use
+   * Google to find the commands you need to use
    * The term for the original repo, is the "upstream" repo
    * If you can't figure out how to do this, you can
-      1. Delete the original fork from last week
+      1. Delete any existing fork (maybe from earlier in the class)
 	  1. Make a new fork
-   * Please do NOT make a new fork without first deleting your original
+   * Please do NOT make a new fork without FIRST deleting your original
       * GitHub keeps track of all the forks
 	  * It becomes hopelessly confusing if one person has several forks
 1. In TITLARK/notebooks you will find `TractableBufferStock-Interactive-Problems.ipynb`
@@ -20,7 +20,7 @@ Your assignment is:
       * `cp TractableBufferStock-Interactive-Problems.ipynb TractableBufferStock-Interactive-Solutions.ipynb`
 	  * `chmod u+w TractableBufferStock-Interactive-Solutions.ipynb`
    1. Open the notebook
-      * `jupyter notebook` from the command line in the notebooks directory
+      * `jupyter lab` from the command line in the notebooks directory
    1.  Read through this notebook, and solve the problem at the end
 1. When you have finished solving the problem:
    1. "push" your local copy to the your "remote" version of the fork on GitHub.com

@@ -4,16 +4,17 @@ This assignment asks you to solve some problems posed in a notebook in the "QuAR
 
 Your assignment is:
 
-1. On [GitHub.com](https://github.com), Log into your GitHub account from a browser (FireFox is the VM's default)
+1. On [GitHub.com](https://github.com), Log into your GitHub account from a browser
 1. Navigate to https://github.com/econ-ark/QuARK, and make a fork of the QuARK repo
    * Click the "Fork" button on the right
+   * Or, if you already have fork, update your fork (Google it)
 1. Clone your fork to your local machine:
    * `cd ~/GitHub/[your-GitHub-ID] ; git clone https://github.com/[your-GitHub-ID]/QuARK`
 1. (If you already had a local clone of a fork of the QuARK repo, perhaps in `~/GitHub/econ-ark-forks` you should update it (though you should use the clone of your own fork for the assignment; updating in `econ-ark-forks` is purely so that you can have the original version as a reference)
    * Google should tell you the commands you need to use: Search "how do I update my fork of a repo with changes to the upstream source repo"
    * The term for the original repo, is the "upstream" repo
    * If you can't figure out how to do this, you can
-      1. Delete the original fork from last week
+      1. Delete any prior fork you might have
 		 * Do this both on GitHub.com and on our local machine
 	  1. Make a new fork
    * Please do NOT make a new fork without first deleting your original fork

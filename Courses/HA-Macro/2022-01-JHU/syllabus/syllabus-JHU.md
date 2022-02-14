@@ -149,7 +149,7 @@ Notes:
         ](syllabus-JHU9x.svg)
     -   Precautionary saving ![↓ ](syllabus-JHU10x.svg)
     -   Net result: ![σr ↑⇒ C ↑ ](syllabus-JHU11x.svg)
--   [ConsPortfolioModel](https://econ-ark.org/materials/ConsPortfolioModelDoc)
+-   [ConsPortfolioModel](https://hark.readthedocs.io/en/latest/reference/ConsumptionSaving/ConsPortfolioModel.html?highlight=portfoliomodel)
     -   “Stockholding Puzzle” [Bertaut and
         Haliassos](#Xbertaut&haliassos:portfolio) ([1997](#Xbertaut&haliassos:portfolio))
 
@@ -199,9 +199,9 @@ Saving](https://econ-ark.org/materials/Gentle-Intro-To-HARK-Buffer-Stock-Model)
 1.  The Growth Impatience Condition
 2.  Liquidity Constraints and Precautionary Saving
 3.  Impatience and Target Wealth
-
-Notebook: [BufferStockTheory
-Problems](https://econ-ark.org/materials/BufferStockTheory-Problems.ipynb)
+4.  Launch:
+    [BufferStockTheory-Problems](https://econ-ark.org/materials/bufferstocktheory-problems?launch)
+    -   Scroll down to find cells marked Problem
 
 #### 5.3  ‘Serious’ Wealth Inequality
 
