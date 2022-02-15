@@ -1,4 +1,4 @@
-Assignments in this directory ask you to solve problems in [`QuARK/notebooks`](https://github.com/econ-ark/QuARK):
+  Assignments in this directory ask you to solve problems in [`QuARK/notebooks`](https://github.com/econ-ark/QuARK):
    * https://github.com/econ-ark/QuARK contains 'Questions using the ARK'
 
 To prepare for these assignments:
